@@ -44,7 +44,7 @@ class LandSlideWarningRemoteMixin:
         pdf_path = os.path.join(dir_pdf, f"{date_str}.pdf")
         if not os.path.exists(pdf_path):
             urlretrieve(url_remote_pdf, pdf_path)
-            log.debug(f"Downloaded {File(pdf_path)}")
+            log.debug(f"Wrote {File(pdf_path)}")
         try:
             return cls.from_pdf(pdf_path)
         except Exception as e:
