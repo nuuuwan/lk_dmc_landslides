@@ -73,7 +73,6 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-2148` Deltota
 - `LK-2151` Udapalatha
 - `LK-2154` Ganga Ihala Korale
-- `LK-2154` Ganga Ihala Korale
 - `LK-2157` Pasbage Korale
 
 #### `LK-92` Kegalle
