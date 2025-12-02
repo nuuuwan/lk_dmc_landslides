@@ -24,7 +24,7 @@ ThreatLevel.LEVEL_2 = ThreatLevel(
     level=2, colour="orange", description="alert", emoji="🟠"
 )
 ThreatLevel.LEVEL_3 = ThreatLevel(
-    level=3, colour="red", description="evaluate", emoji="🛑"
+    level=3, colour="red", description="evacuate", emoji="🛑"
 )
 
 
