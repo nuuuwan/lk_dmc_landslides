@@ -49,7 +49,9 @@ class ReadMe:
             )
             for district_id, dsd_id_list in district_to_dsds.items():
                 ent_district = Ent.from_id(district_id)
-                lines.extend([f"#### `{district_id}` {ent_district.name}", ""])
+                lines.extend(
+                    [f"#### `{district_id}` {ent_district.name}", ""]
+                )
                 for dsd_id in dsd_id_list:
                     ent_dsd = Ent.from_id(dsd_id)
                     lines.append(f"- `{dsd_id}` {ent_dsd.name}")
