@@ -49,95 +49,156 @@ class LandSlideWarningPDFMixin:
         )
         return list(set(dsd_names_all + extra_dsd_names))
 
+    @staticmethod
+    def __get_district_entity__(
+        district_name: str, prev_ent_district
+    ) -> tuple:
+        cand_ent_districts = Ent.list_from_name_fuzzy(
+            name_fuzzy=district_name,
+            filter_ent_type=EntType.DISTRICT,
+        )
+        if len(cand_ent_districts) != 1:
+            if not prev_ent_district:
+                return None, prev_ent_district
+            return prev_ent_district, prev_ent_district
+        return cand_ent_districts[0], cand_ent_districts[0]
+
+    @staticmethod
+    def __get_dsd_entities__(
+        dsd_names: list[str], district_id: str
+    ) -> list[Ent]:
+        ent_dsds = []
+        for dsd_name in dsd_names:
+            cand_ent_dsds = Ent.list_from_name_fuzzy(
+                name_fuzzy=dsd_name,
+                filter_ent_type=EntType.DSD,
+                filter_parent_id=district_id,
+            )
+            if len(cand_ent_dsds) == 1:
+                ent_dsds.append(cand_ent_dsds[0])
+        return ent_dsds
+
     @classmethod
-    def from_pdf(cls, pdf_path, force_parse_pdf=False):
-        date_id = os.path.basename(pdf_path)[:-4]
-        json_path = cls.get_json_path(date_id)
-        if not force_parse_pdf and os.path.exists(json_path):
-            return cls.from_json(json_path)
+    def __process_threat_level__(
+        cls,
+        row_values: list,
+        threat_level: int,
+        district_id: str,
+        level_to_district_to_dsds: dict,
+    ) -> None:
+        if threat_level not in level_to_district_to_dsds:
+            level_to_district_to_dsds[threat_level] = {}
 
+        dsd_names = cls.__parse_dsd_name_list__(row_values[threat_level])
+        ent_dsds = cls.__get_dsd_entities__(dsd_names, district_id)
+        dsd_ids = [ent_dsd.id for ent_dsd in ent_dsds]
+
+        if not dsd_ids:
+            return
+
+        if district_id not in level_to_district_to_dsds[threat_level]:
+            level_to_district_to_dsds[threat_level][district_id] = []
+        level_to_district_to_dsds[threat_level][district_id].extend(dsd_ids)
+
+    @classmethod
+    def __process_table_row__(
+        cls,
+        row_values: list,
+        prev_ent_district,
+        level_to_district_to_dsds: dict,
+    ) -> tuple:
+        if len(row_values) != 4:
+            return prev_ent_district
+
+        district_name = cls.__parse_district_name__(row_values)
+        ent_district, prev_ent_district = cls.__get_district_entity__(
+            district_name, prev_ent_district
+        )
+
+        if not ent_district:
+            return prev_ent_district
+
+        district_id = ent_district.id
+        for i_col in [1, 2, 3]:
+            cls.__process_threat_level__(
+                row_values,
+                i_col,
+                district_id,
+                level_to_district_to_dsds,
+            )
+
+        return prev_ent_district
+
+    @staticmethod
+    def __read_pdf_tables__(pdf_path: str):
+        """Read tables from PDF file using Camelot."""
         tables = camelot.read_pdf(pdf_path, pages="all", flavor="lattice")
-
         if not tables:
             log.error(f"No tables found in {pdf_path}")
             return None
+        return tables
 
+    @classmethod
+    def __process_all_tables__(
+        cls, tables
+    ) -> dict[int, dict[str, list[str]]]:
+        """Process all tables and build the district to DSDs mapping."""
         level_to_district_to_dsds = {}
         prev_ent_district = None
+
         for table in tables:
             df = table.df
             for _, row in df.iterrows():
                 row_values = row.tolist()
-
-                if len(row_values) != 4:
-                    continue
-
-                district_name = cls.__parse_district_name__(row_values)
-                cand_ent_districts = Ent.list_from_name_fuzzy(
-                    name_fuzzy=district_name,
-                    filter_ent_type=EntType.DISTRICT,
+                prev_ent_district = cls.__process_table_row__(
+                    row_values, prev_ent_district, level_to_district_to_dsds
                 )
-                if len(cand_ent_districts) != 1:
-                    if not prev_ent_district:
-                        continue
-                    ent_district = prev_ent_district
-                else:
-                    ent_district = cand_ent_districts[0]
-                prev_ent_district = ent_district
-                district_id = ent_district.id
 
-                for i_col in [1, 2, 3]:
-                    threat_level = i_col
-                    print("-" * 64)
-                    print(threat_level)
-                    print("-" * 64)
-                    if threat_level not in level_to_district_to_dsds:
-                        level_to_district_to_dsds[threat_level] = {}
+        return level_to_district_to_dsds
 
-                    dsd_names = cls.__parse_dsd_name_list__(
-                        row_values[threat_level]
-                    )
-                    ent_dsds = []
-                    for dsd_name in dsd_names:
-                        cand_ent_dsds = Ent.list_from_name_fuzzy(
-                            name_fuzzy=dsd_name,
-                            filter_ent_type=EntType.DSD,
-                            filter_parent_id=ent_district.id,
-                        )
-                        if len(cand_ent_dsds) != 1:
-                            continue
-                        ent_dsd = cand_ent_dsds[0]
-                        ent_dsds.append(ent_dsd)
-                    dsd_ids = [ent_dsd.id for ent_dsd in ent_dsds]
-
-                    if not dsd_ids:
-                        continue
-
-                    if (
-                        district_id
-                        not in level_to_district_to_dsds[threat_level]
-                    ):
-                        level_to_district_to_dsds[threat_level][
-                            ent_district.id
-                        ] = []
-                    level_to_district_to_dsds[threat_level][
-                        ent_district.id
-                    ].extend(dsd_ids)
-
-                    print("-" * 32)
-                    print(threat_level, district_id, district_name)
-                    dsd_names2 = [ent_dsd.name for ent_dsd in ent_dsds]
-                    print("\t", len(dsd_names2), dsd_names2)
-
-        for threat_level, district_dict in level_to_district_to_dsds.items():
-            for district_id, dsd_list in district_dict.items():
+    @staticmethod
+    def __sort_dsd_lists__(level_to_district_to_dsds: dict) -> None:
+        """Sort all DSD lists in place."""
+        for district_dict in level_to_district_to_dsds.values():
+            for dsd_list in district_dict.values():
                 dsd_list.sort()
+
+    @classmethod
+    def __extract_tables_from_pdf__(
+        cls, pdf_path: str
+    ) -> dict[int, dict[str, list[str]]]:
+        """Extract and process all tables from PDF."""
+        tables = cls.__read_pdf_tables__(pdf_path)
+        if not tables:
+            return None
+
+        level_to_district_to_dsds = cls.__process_all_tables__(tables)
+        cls.__sort_dsd_lists__(level_to_district_to_dsds)
+
+        return level_to_district_to_dsds
+
+    @classmethod
+    def __save_to_json__(cls, lw, json_path: str) -> None:
+        dir_json_path = os.path.dirname(json_path)
+        os.makedirs(dir_json_path, exist_ok=True)
+        JSONFile(json_path).write(asdict(lw))
+
+    @classmethod
+    def from_pdf(cls, pdf_path, force_parse_pdf=False):
+        date_id = os.path.basename(pdf_path)[:-4]
+        json_path = cls.get_json_path(date_id)
+
+        if not force_parse_pdf and os.path.exists(json_path):
+            return cls.from_json(json_path)
+
+        level_to_district_to_dsds = cls.__extract_tables_from_pdf__(pdf_path)
+
+        if level_to_district_to_dsds is None:
+            return None
 
         lw = cls(
             date_id=date_id,
             level_to_district_to_dsds=level_to_district_to_dsds,
         )
-        dir_json_path = os.path.dirname(json_path)
-        os.makedirs(dir_json_path, exist_ok=True)
-        JSONFile(json_path).write(asdict(lw))
+        cls.__save_to_json__(lw, json_path)
         return lw
