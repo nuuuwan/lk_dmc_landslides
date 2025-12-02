@@ -178,7 +178,9 @@ class LandSlideWarningPDFMixin:
     def __save_to_json__(cls, lw, json_path: str) -> None:
         dir_json_path = os.path.dirname(json_path)
         os.makedirs(dir_json_path, exist_ok=True)
-        JSONFile(json_path).write(asdict(lw))
+        json_file = JSONFile(json_path)
+        json_file.write(asdict(lw))
+        log.info(f"Wrote {json_file}")
 
     @classmethod
     def from_pdf(cls, pdf_path, force_parse_pdf=False):
