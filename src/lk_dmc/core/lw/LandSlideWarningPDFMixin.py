@@ -41,7 +41,6 @@ class LandSlideWarningPDFMixin:
             line = line.replace(" and ", ",")
             dsd_names = line.split(",")
             dsd_names = [name.strip() for name in dsd_names]
-            print(line, dsd_names)
             dsd_names_all.extend(dsd_names)
 
         extra_dsd_names = LandSlideWarningPDFMixin.__get_extra_dsd_names__(
@@ -139,9 +138,7 @@ class LandSlideWarningPDFMixin:
         return tables
 
     @classmethod
-    def __process_all_tables__(
-        cls, tables
-    ) -> dict[int, dict[str, list[str]]]:
+    def __process_all_tables__(cls, tables) -> dict[int, dict[str, list[str]]]:
         """Process all tables and build the district to DSDs mapping."""
         level_to_district_to_dsds = {}
         prev_ent_district = None
