@@ -1,5 +1,5 @@
 import os
-from dataclasses import dataclass
+from dataclasses import asdict, dataclass
 
 from utils import JSONFile, Log
 
@@ -62,3 +62,17 @@ class LandslideWarning(LandSlideWarningPDFMixin, LandSlideWarningRemoteMixin):
         lw_list = [cls.from_json(json_path) for json_path in json_paths]
         lw_list.sort(key=lambda lw: lw.date_id, reverse=True)
         return lw_list
+
+    @classmethod
+    def aggregate(cls):
+        lw_list = cls.list_all()
+        json_path = os.path.join(cls.DIR_DATA, "all.json")
+        json_file = JSONFile(json_path)
+        json_file.write([asdict(lw) for lw in lw_list])
+        log.info(f"Wrote  {json_file}")
+
+        latest = lw_list[0]
+        json_path_latest = os.path.join(cls.DIR_DATA, "latest.json")
+        json_file_latest = JSONFile(json_path_latest)
+        json_file_latest.write(asdict(latest))
+        log.info(f"Wrote {json_file_latest}")
