@@ -3,7 +3,7 @@
 
 From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=276&report_type_id=5&lang=en).
 
-## Latest Warnings (2025-12-03)
+## Latest Warnings (2025-12-04)
 
 ### 🟡 Level 1 - "watch"
 
@@ -14,6 +14,8 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 #### `LK-12` Gampaha
 
+- `LK-1209` Divulapitiya
+- `LK-1212` Mirigama
 - `LK-1227` Attanagalla
 
 #### `LK-13` Kalutara
@@ -21,11 +23,6 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-1309` Horana
 - `LK-1310` Ingiriya
 - `LK-1312` Bulathsinhala
-
-#### `LK-82` Moneragala
-
-- `LK-8203` Bibile
-- `LK-8209` Medagama
 
 #### `LK-91` Ratnapura
 
@@ -68,14 +65,6 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-9221` Ruwanwella
 - `LK-9230` Dehiovita
 - `LK-9233` Deraniyagala
-
-#### `LK-61` Kurunegala
-
-- `LK-6157` Mallawapitiya
-- `LK-6160` Mawathagama
-- `LK-6181` Narammala
-- `LK-6184` Alawwa
-- `LK-6187` Polgahawela
 
 #### `LK-23` Nuwara Eliya
 
@@ -123,7 +112,12 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 #### `LK-61` Kurunegala
 
+- `LK-6157` Mallawapitiya
+- `LK-6160` Mawathagama
 - `LK-6163` Rideegama
+- `LK-6181` Narammala
+- `LK-6184` Alawwa
+- `LK-6187` Polgahawela
 
 #### `LK-22` Matale
 
