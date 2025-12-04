@@ -36,12 +36,13 @@ class LandSlideWarningPDFMixin:
     def __parse_dsd_name_list__(x) -> str:
         dsd_names_all = []
         for line in x.split("\n"):
+            line = line.replace("↓", "")
             line = line.strip()
             if line.endswith(" and"):
                 line = line[:-4]
             line = line.replace(" and ", ",")
             dsd_names = line.split(",")
-            dsd_names = [name.strip() for name in dsd_names]
+            dsd_names = [name.strip() for name in dsd_names if name.strip()]
             dsd_names_all.extend(dsd_names)
 
         extra_dsd_names = LandSlideWarningPDFMixin.__get_extra_dsd_names__(
