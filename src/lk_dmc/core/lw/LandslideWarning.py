@@ -96,3 +96,36 @@ class LandslideWarning(LandSlideWarningPDFMixin, LandSlideWarningRemoteMixin):
         json_file_latest_flat = JSONFile(json_path_latest_flat)
         json_file_latest_flat.write(latest_flat)
         log.info(f"Wrote {json_file_latest_flat}")
+
+        cls.write_alert_data(lw_list)
+
+    @classmethod
+    def write_alert_data(cls, lw_list):
+        alert_data = {
+            "url_source": "https://www.dmc.gov.lk/index.php"
+            + "?option=com_dmcreports&view=reports&Itemid=276&report_type_id=5&lang=en",
+            "url_structured": "https://raw.githubusercontent.com/nuuuwan/lk_dmc_landslides/refs/heads/main/data/alert_data.json",
+            "event": "landslide_warning",
+            "event_measures": ["landslide_warning_level"],
+            "frequency": "daily",
+        }
+
+        event_data = {}
+        for lw in lw_list:
+            date_id = lw.date_id
+            date_part = date_id.replace("-", "")
+
+            for (
+                level,
+                district_to_dsds,
+            ) in lw.level_to_district_to_dsds.items():
+                for dsd_id_list in district_to_dsds.values():
+                    for dsd_id in dsd_id_list:
+                        if dsd_id not in event_data:
+                            event_data[dsd_id] = {}
+                        event_data[dsd_id][date_part] = int(level)
+
+        alert_data["event_data"] = event_data
+        json_file = JSONFile(os.path.join(cls.DIR_DATA, "alert_data.json"))
+        json_file.write(alert_data)
+        log.info(f"Wrote {json_file}")
