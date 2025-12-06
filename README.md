@@ -3,7 +3,7 @@
 
 From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=276&report_type_id=5&lang=en).
 
-## Latest Warnings (2025-12-05)
+## Latest Warnings (2025-12-06)
 
 ### 🟡 Level 1 - "watch"
 
@@ -72,6 +72,10 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-8139` Haputale
 - `LK-8142` Haldummulla
 
+#### `LK-61` Kurunegala
+
+- `LK-6181` Narammala
+
 #### `LK-23` Nuwara Eliya
 
 - `LK-2312` Nuwara Eliya
@@ -126,7 +130,6 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-6157` Mallawapitiya
 - `LK-6160` Mawathagama
 - `LK-6163` Rideegama
-- `LK-6181` Narammala
 - `LK-6184` Alawwa
 - `LK-6187` Polgahawela
 
