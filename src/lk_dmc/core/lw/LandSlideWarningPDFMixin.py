@@ -20,8 +20,10 @@ class LandSlideWarningPDFMixin:
 
         before_to_after = {
             "Kotmale": "Kotmale",
+            "Kothmale": "Kotmale",
             "Mathurata": "Hanguranketha",
-            "Thalawakele": "Nuwara Eliya",
+            "Thalawakele": "Ambagamuwa",
+            "Ambagamuwa Korale": "Ambagamuwa",
             "Nildandahinna": "Walapane",
             "Gangawata Korale": "Kandy Four Gravets & Gangawata Korale",
         }

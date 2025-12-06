@@ -78,7 +78,9 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 #### `LK-23` Nuwara Eliya
 
+- `LK-2303` Kothmale
 - `LK-2312` Nuwara Eliya
+- `LK-2315` Ambagamuwa
 
 #### `LK-91` Ratnapura
 
