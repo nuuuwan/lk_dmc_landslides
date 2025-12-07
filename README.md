@@ -3,14 +3,9 @@
 
 From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=276&report_type_id=5&lang=en).
 
-## Latest Warnings (2025-12-06)
+## Latest Warnings (2025-12-07)
 
 ### 🟡 Level 1 - "watch"
-
-#### `LK-11` Colombo
-
-- `LK-1115` Seethawaka
-- `LK-1118` Padukka
 
 #### `LK-31` Galle
 
@@ -22,17 +17,6 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-1209` Divulapitiya
 - `LK-1212` Mirigama
 - `LK-1227` Attanagalla
-
-#### `LK-13` Kalutara
-
-- `LK-1309` Horana
-- `LK-1310` Ingiriya
-- `LK-1312` Bulathsinhala
-
-#### `LK-32` Matara
-
-- `LK-3209` Pasgoda
-- `LK-3215` Athuraliya
 
 #### `LK-82` Moneragala
 
@@ -72,6 +56,12 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-8139` Haputale
 - `LK-8142` Haldummulla
 
+#### `LK-92` Kegalle
+
+- `LK-9221` Ruwanwella
+- `LK-9230` Dehiovita
+- `LK-9233` Deraniyagala
+
 #### `LK-61` Kurunegala
 
 - `LK-6181` Narammala
@@ -79,6 +69,8 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 #### `LK-23` Nuwara Eliya
 
 - `LK-2303` Kothmale
+- `LK-2306` Hanguranketha
+- `LK-2309` Walapane
 - `LK-2312` Nuwara Eliya
 - `LK-2315` Ambagamuwa
 
@@ -121,11 +113,8 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-9212` Kegalle
 - `LK-9215` Galigamuwa
 - `LK-9218` Warakapola
-- `LK-9221` Ruwanwella
 - `LK-9224` Bulathkohupitiya
 - `LK-9227` Yatiyanthota
-- `LK-9230` Dehiovita
-- `LK-9233` Deraniyagala
 
 #### `LK-61` Kurunegala
 
@@ -146,8 +135,3 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-2227` Wilgamuwa
 - `LK-2230` Rattota
 - `LK-2233` Ukuwela
-
-#### `LK-23` Nuwara Eliya
-
-- `LK-2306` Hanguranketha
-- `LK-2309` Walapane
