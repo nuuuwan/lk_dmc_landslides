@@ -57,16 +57,11 @@
       ],
       "LK-23": [
         "LK-2303",
-<<<<<<< HEAD
-        "LK-2306",
-        "LK-2309",
-=======
         "LK-2304",
         "LK-2306",
         "LK-2307",
         "LK-2309",
         "LK-2310",
->>>>>>> 399c431 (Update landslide warning data and JSON files for December 7, 2025)
         "LK-2312",
         "LK-2313",
         "LK-2315",

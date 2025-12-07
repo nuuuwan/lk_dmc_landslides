@@ -62,14 +62,11 @@
   {
     "id": "LK-9118",
     "time_ut": 1765045800.0,
-<<<<<<< HEAD
-=======
     "threat_level": "1"
   },
   {
     "id": "LK-9119",
     "time_ut": 1765045800.0,
->>>>>>> 399c431 (Update landslide warning data and JSON files for December 7, 2025)
     "threat_level": "1"
   },
   {
@@ -193,23 +190,16 @@
     "threat_level": "2"
   },
   {
-<<<<<<< HEAD
-=======
     "id": "LK-2304",
     "time_ut": 1765045800.0,
     "threat_level": "2"
   },
   {
->>>>>>> 399c431 (Update landslide warning data and JSON files for December 7, 2025)
     "id": "LK-2306",
     "time_ut": 1765045800.0,
     "threat_level": "2"
   },
   {
-<<<<<<< HEAD
-    "id": "LK-2309",
-    "time_ut": 1765045800.0,
-=======
     "id": "LK-2307",
     "time_ut": 1765045800.0,
     "threat_level": "2"
@@ -222,33 +212,26 @@
   {
     "id": "LK-2310",
     "time_ut": 1765045800.0,
->>>>>>> 399c431 (Update landslide warning data and JSON files for December 7, 2025)
     "threat_level": "2"
   },
   {
     "id": "LK-2312",
     "time_ut": 1765045800.0,
-<<<<<<< HEAD
-=======
     "threat_level": "2"
   },
   {
     "id": "LK-2313",
     "time_ut": 1765045800.0,
->>>>>>> 399c431 (Update landslide warning data and JSON files for December 7, 2025)
     "threat_level": "2"
   },
   {
     "id": "LK-2315",
     "time_ut": 1765045800.0,
-<<<<<<< HEAD
-=======
     "threat_level": "2"
   },
   {
     "id": "LK-2316",
     "time_ut": 1765045800.0,
->>>>>>> 399c431 (Update landslide warning data and JSON files for December 7, 2025)
     "threat_level": "2"
   },
   {
@@ -449,19 +432,6 @@
   {
     "id": "LK-2218",
     "time_ut": 1765045800.0,
-<<<<<<< HEAD
-    "threat_level": "3"
-  },
-  {
-    "id": "LK-2221",
-    "time_ut": 1765045800.0,
-    "threat_level": "3"
-  },
-  {
-    "id": "LK-2224",
-    "time_ut": 1765045800.0,
-=======
->>>>>>> 399c431 (Update landslide warning data and JSON files for December 7, 2025)
     "threat_level": "3"
   },
   {

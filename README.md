@@ -18,11 +18,7 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-1212` Mirigama
 - `LK-1227` Attanagalla
 
-<<<<<<< HEAD
-#### `LK-82` Moneragala
-=======
 #### `LK-82` Monaragala
->>>>>>> 399c431 (Update landslide warning data and JSON files for December 7, 2025)
 
 - `LK-8203` Bibile
 - `LK-8209` Medagama
@@ -64,11 +60,7 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 #### `LK-92` Kegalle
 
 - `LK-9221` Ruwanwella
-<<<<<<< HEAD
-- `LK-9230` Dehiovita
-=======
 - `LK-9230` Dehiowita
->>>>>>> 399c431 (Update landslide warning data and JSON files for December 7, 2025)
 - `LK-9233` Deraniyagala
 
 #### `LK-61` Kurunegala
@@ -77,18 +69,12 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 #### `LK-23` Nuwara Eliya
 
-<<<<<<< HEAD
-- `LK-2303` Kothmale
-- `LK-2306` Hanguranketha
-- `LK-2309` Walapane
-=======
 - `LK-2303` Kothmale East
 - `LK-2304` Kothmale West
 - `LK-2306` Hanguranketa
 - `LK-2307` Mathurata
 - `LK-2309` Walapane
 - `LK-2310` Nildandahinna
->>>>>>> 399c431 (Update landslide warning data and JSON files for December 7, 2025)
 - `LK-2312` Nuwara Eliya
 - `LK-2313` Thalawakele
 - `LK-2315` Ambagamuwa Korale
@@ -133,13 +119,8 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-9212` Kegalle
 - `LK-9215` Galigamuwa
 - `LK-9218` Warakapola
-<<<<<<< HEAD
-- `LK-9224` Bulathkohupitiya
-- `LK-9227` Yatiyanthota
-=======
 - `LK-9224` Bulathkohipitiya
 - `LK-9227` Yatiyantota
->>>>>>> 399c431 (Update landslide warning data and JSON files for December 7, 2025)
 
 #### `LK-61` Kurunegala
 
