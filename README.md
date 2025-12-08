@@ -7,7 +7,7 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2025-12-07)
+## Latest Warnings (2025-12-08)
 
 ### 🟡 Level 1 - "watch"
 
@@ -22,10 +22,9 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-1212` Mirigama
 - `LK-1227` Attanagalla
 
-#### `LK-82` Monaragala
+#### `LK-61` Kurunegala
 
-- `LK-8203` Bibile
-- `LK-8209` Medagama
+- `LK-6181` Narammala
 
 #### `LK-91` Ratnapura
 
@@ -69,7 +68,8 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 #### `LK-61` Kurunegala
 
-- `LK-6181` Narammala
+- `LK-6184` Alawwa
+- `LK-6187` Polgahawela
 
 #### `LK-23` Nuwara Eliya
 
@@ -131,8 +131,6 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-6157` Mallawapitiya
 - `LK-6160` Mawathagama
 - `LK-6163` Rideegama
-- `LK-6184` Alawwa
-- `LK-6187` Polgahawela
 
 #### `LK-22` Matale
 
