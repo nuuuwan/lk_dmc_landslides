@@ -7,7 +7,7 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2025-12-09)
+## Latest Warnings (2025-12-10)
 
 ### 🟡 Level 1 - "watch"
 
@@ -58,6 +58,8 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 #### `LK-92` Kegalle
 
 - `LK-9212` Kegalle
+- `LK-9215` Galigamuwa
+- `LK-9218` Warakapola
 - `LK-9221` Ruwanwella
 - `LK-9230` Dehiowita
 - `LK-9233` Deraniyagala
@@ -116,8 +118,6 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-9203` Rambukkana
 - `LK-9206` Mawanella
 - `LK-9209` Aranayake
-- `LK-9215` Galigamuwa
-- `LK-9218` Warakapola
 - `LK-9224` Bulathkohipitiya
 - `LK-9227` Yatiyantota
 
