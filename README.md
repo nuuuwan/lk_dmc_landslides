@@ -7,7 +7,7 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2025-12-11)
+## Latest Warnings (2025-12-12)
 
 ### 🟡 Level 1 - "watch"
 
@@ -17,9 +17,11 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-1212` Mirigama
 - `LK-1227` Attanagalla
 
-#### `LK-61` Kurunegala
+#### `LK-92` Kegalle
 
-- `LK-6181` Narammala
+- `LK-9221` Ruwanwella
+- `LK-9230` Dehiowita
+- `LK-9233` Deraniyagala
 
 #### `LK-91` Ratnapura
 
@@ -55,6 +57,20 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-8139` Haputale
 - `LK-8142` Haldummulla
 
+#### `LK-21` Kandy
+
+- `LK-2103` Tumpane
+- `LK-2106` Poojapitiya
+- `LK-2109` Akurana
+- `LK-2127` Kundasale
+- `LK-2130` Gangawata Korale
+- `LK-2133` Harispattuwa
+- `LK-2134` Hatharaliyadda
+- `LK-2136` Yatinuwara
+- `LK-2139` Udunuwara
+- `LK-2145` Pathahewaheta
+- `LK-2157` Pasbagekorale
+
 #### `LK-92` Kegalle
 
 - `LK-9203` Rambukkana
@@ -63,15 +79,27 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-9212` Kegalle
 - `LK-9215` Galigamuwa
 - `LK-9218` Warakapola
-- `LK-9221` Ruwanwella
 - `LK-9224` Bulathkohipitiya
-- `LK-9230` Dehiowita
-- `LK-9233` Deraniyagala
+- `LK-9227` Yatiyantota
 
 #### `LK-61` Kurunegala
 
+- `LK-6157` Mallawapitiya
+- `LK-6160` Mawathagama
 - `LK-6184` Alawwa
 - `LK-6187` Polgahawela
+
+#### `LK-22` Matale
+
+- `LK-2209` Naula
+- `LK-2212` Pallepola
+- `LK-2215` Yatawatta
+- `LK-2218` Matale
+- `LK-2221` Ambanganga
+- `LK-2224` Laggala
+- `LK-2227` Wilgamuwa
+- `LK-2230` Rattota
+- `LK-2233` Ukuwela
 
 #### `LK-23` Nuwara Eliya
 
@@ -96,45 +124,16 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 #### `LK-21` Kandy
 
-- `LK-2103` Tumpane
-- `LK-2106` Poojapitiya
-- `LK-2109` Akurana
 - `LK-2112` Pathadumbara
 - `LK-2115` Panvila
 - `LK-2118` Ududumbara
 - `LK-2121` Minipe
 - `LK-2124` Medadumbara
-- `LK-2127` Kundasale
-- `LK-2130` Gangawata Korale
-- `LK-2133` Harispattuwa
-- `LK-2134` Hatharaliyadda
-- `LK-2136` Yatinuwara
-- `LK-2139` Udunuwara
 - `LK-2142` Doluwa
-- `LK-2145` Pathahewaheta
 - `LK-2148` Deltota
 - `LK-2151` Udapalatha
 - `LK-2154` Ganga Ihala Korale
-- `LK-2157` Pasbagekorale
-
-#### `LK-92` Kegalle
-
-- `LK-9227` Yatiyantota
 
 #### `LK-61` Kurunegala
 
-- `LK-6157` Mallawapitiya
-- `LK-6160` Mawathagama
 - `LK-6163` Rideegama
-
-#### `LK-22` Matale
-
-- `LK-2209` Naula
-- `LK-2212` Pallepola
-- `LK-2215` Yatawatta
-- `LK-2218` Matale
-- `LK-2221` Ambanganga
-- `LK-2224` Laggala
-- `LK-2227` Wilgamuwa
-- `LK-2230` Rattota
-- `LK-2233` Ukuwela
