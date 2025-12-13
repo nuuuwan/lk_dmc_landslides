@@ -7,15 +7,9 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2025-12-12)
+## Latest Warnings (2025-12-13)
 
 ### 🟡 Level 1 - "watch"
-
-#### `LK-12` Gampaha
-
-- `LK-1209` Divulapitiya
-- `LK-1212` Mirigama
-- `LK-1227` Attanagalla
 
 #### `LK-92` Kegalle
 
