@@ -7,13 +7,21 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2025-12-13)
+## Latest Warnings (2025-12-14)
 
 ### 🟡 Level 1 - "watch"
 
 #### `LK-92` Kegalle
 
+- `LK-9203` Rambukkana
+- `LK-9206` Mawanella
+- `LK-9209` Aranayake
+- `LK-9212` Kegalle
+- `LK-9215` Galigamuwa
+- `LK-9218` Warakapola
 - `LK-9221` Ruwanwella
+- `LK-9224` Bulathkohipitiya
+- `LK-9227` Yatiyantota
 - `LK-9230` Dehiowita
 - `LK-9233` Deraniyagala
 
@@ -32,6 +40,9 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-9130` Ayagama
 - `LK-9133` Kalawana
 - `LK-9136` Nivithigala
+- `LK-9139` Kahawattha
+- `LK-9142` Godakawela
+- `LK-9151` Kolonna
 
 ### 🟠 Level 2 - "alert"
 
@@ -56,6 +67,8 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-2103` Tumpane
 - `LK-2106` Poojapitiya
 - `LK-2109` Akurana
+- `LK-2112` Pathadumbara
+- `LK-2115` Panvila
 - `LK-2127` Kundasale
 - `LK-2130` Gangawata Korale
 - `LK-2133` Harispattuwa
@@ -63,18 +76,9 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-2136` Yatinuwara
 - `LK-2139` Udunuwara
 - `LK-2145` Pathahewaheta
+- `LK-2148` Deltota
+- `LK-2151` Udapalatha
 - `LK-2157` Pasbagekorale
-
-#### `LK-92` Kegalle
-
-- `LK-9203` Rambukkana
-- `LK-9206` Mawanella
-- `LK-9209` Aranayake
-- `LK-9212` Kegalle
-- `LK-9215` Galigamuwa
-- `LK-9218` Warakapola
-- `LK-9224` Bulathkohipitiya
-- `LK-9227` Yatiyantota
 
 #### `LK-61` Kurunegala
 
@@ -108,24 +112,14 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-2315` Ambagamuwa Korale
 - `LK-2316` Norwood
 
-#### `LK-91` Ratnapura
-
-- `LK-9139` Kahawattha
-- `LK-9142` Godakawela
-- `LK-9151` Kolonna
-
 ### 🛑 Level 3 - "evacuate"
 
 #### `LK-21` Kandy
 
-- `LK-2112` Pathadumbara
-- `LK-2115` Panvila
 - `LK-2118` Ududumbara
 - `LK-2121` Minipe
 - `LK-2124` Medadumbara
 - `LK-2142` Doluwa
-- `LK-2148` Deltota
-- `LK-2151` Udapalatha
 - `LK-2154` Ganga Ihala Korale
 
 #### `LK-61` Kurunegala
