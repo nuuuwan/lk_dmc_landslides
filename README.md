@@ -7,7 +7,7 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2025-12-14)
+## Latest Warnings (2025-12-15)
 
 ### 🟡 Level 1 - "watch"
 
@@ -25,24 +25,18 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-9230` Dehiowita
 - `LK-9233` Deraniyagala
 
-#### `LK-91` Ratnapura
+#### `LK-61` Kurunegala
 
-- `LK-9103` Eheliyagoda
-- `LK-9106` Kuruvita
-- `LK-9109` Kiriella
-- `LK-9112` Ratnapura
-- `LK-9115` Imbulpe
-- `LK-9118` Balangoda
-- `LK-9119` Kalthota
-- `LK-9121` Opanayake
-- `LK-9124` Pelmadulla
-- `LK-9127` Elapatha
-- `LK-9130` Ayagama
-- `LK-9133` Kalawana
-- `LK-9136` Nivithigala
-- `LK-9139` Kahawattha
-- `LK-9142` Godakawela
-- `LK-9151` Kolonna
+- `LK-6184` Alawwa
+- `LK-6187` Polgahawela
+
+#### `LK-23` Nuwara Eliya
+
+- `LK-2303` Kothmale East
+- `LK-2304` Kothmale West
+- `LK-2313` Thalawakele
+- `LK-2315` Ambagamuwa Korale
+- `LK-2316` Norwood
 
 ### 🟠 Level 2 - "alert"
 
@@ -84,8 +78,7 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 - `LK-6157` Mallawapitiya
 - `LK-6160` Mawathagama
-- `LK-6184` Alawwa
-- `LK-6187` Polgahawela
+- `LK-6163` Rideegama
 
 #### `LK-22` Matale
 
@@ -101,16 +94,11 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 #### `LK-23` Nuwara Eliya
 
-- `LK-2303` Kothmale East
-- `LK-2304` Kothmale West
 - `LK-2306` Hanguranketa
 - `LK-2307` Mathurata
 - `LK-2309` Walapane
 - `LK-2310` Nildandahinna
 - `LK-2312` Nuwara Eliya
-- `LK-2313` Thalawakele
-- `LK-2315` Ambagamuwa Korale
-- `LK-2316` Norwood
 
 ### 🛑 Level 3 - "evacuate"
 
@@ -121,7 +109,3 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-2124` Medadumbara
 - `LK-2142` Doluwa
 - `LK-2154` Ganga Ihala Korale
-
-#### `LK-61` Kurunegala
-
-- `LK-6163` Rideegama
