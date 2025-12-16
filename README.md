@@ -7,38 +7,9 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2025-12-15)
+## Latest Warnings (2025-12-16)
 
 ### 🟡 Level 1 - "watch"
-
-#### `LK-92` Kegalle
-
-- `LK-9203` Rambukkana
-- `LK-9206` Mawanella
-- `LK-9209` Aranayake
-- `LK-9212` Kegalle
-- `LK-9215` Galigamuwa
-- `LK-9218` Warakapola
-- `LK-9221` Ruwanwella
-- `LK-9224` Bulathkohipitiya
-- `LK-9227` Yatiyantota
-- `LK-9230` Dehiowita
-- `LK-9233` Deraniyagala
-
-#### `LK-61` Kurunegala
-
-- `LK-6184` Alawwa
-- `LK-6187` Polgahawela
-
-#### `LK-23` Nuwara Eliya
-
-- `LK-2303` Kothmale East
-- `LK-2304` Kothmale West
-- `LK-2313` Thalawakele
-- `LK-2315` Ambagamuwa Korale
-- `LK-2316` Norwood
-
-### 🟠 Level 2 - "alert"
 
 #### `LK-81` Badulla
 
@@ -56,29 +27,12 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-8139` Haputale
 - `LK-8142` Haldummulla
 
-#### `LK-21` Kandy
-
-- `LK-2103` Tumpane
-- `LK-2106` Poojapitiya
-- `LK-2109` Akurana
-- `LK-2112` Pathadumbara
-- `LK-2115` Panvila
-- `LK-2127` Kundasale
-- `LK-2130` Gangawata Korale
-- `LK-2133` Harispattuwa
-- `LK-2134` Hatharaliyadda
-- `LK-2136` Yatinuwara
-- `LK-2139` Udunuwara
-- `LK-2145` Pathahewaheta
-- `LK-2148` Deltota
-- `LK-2151` Udapalatha
-- `LK-2157` Pasbagekorale
-
 #### `LK-61` Kurunegala
 
 - `LK-6157` Mallawapitiya
 - `LK-6160` Mawathagama
-- `LK-6163` Rideegama
+- `LK-6184` Alawwa
+- `LK-6187` Polgahawela
 
 #### `LK-22` Matale
 
@@ -94,18 +48,47 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 #### `LK-23` Nuwara Eliya
 
+- `LK-2303` Kothmale East
+- `LK-2304` Kothmale West
+- `LK-2312` Nuwara Eliya
+- `LK-2313` Thalawakele
+- `LK-2315` Ambagamuwa Korale
+- `LK-2316` Norwood
+
+### 🟠 Level 2 - "alert"
+
+#### `LK-21` Kandy
+
+- `LK-2103` Tumpane
+- `LK-2106` Poojapitiya
+- `LK-2109` Akurana
+- `LK-2112` Pathadumbara
+- `LK-2115` Panvila
+- `LK-2118` Ududumbara
+- `LK-2121` Minipe
+- `LK-2124` Medadumbara
+- `LK-2127` Kundasale
+- `LK-2130` Gangawata Korale
+- `LK-2133` Harispattuwa
+- `LK-2134` Hatharaliyadda
+- `LK-2136` Yatinuwara
+- `LK-2139` Udunuwara
+- `LK-2142` Doluwa
+- `LK-2145` Pathahewaheta
+- `LK-2148` Deltota
+- `LK-2151` Udapalatha
+- `LK-2154` Ganga Ihala Korale
+- `LK-2157` Pasbagekorale
+
+#### `LK-61` Kurunegala
+
+- `LK-6163` Rideegama
+
+#### `LK-23` Nuwara Eliya
+
 - `LK-2306` Hanguranketa
 - `LK-2307` Mathurata
 - `LK-2309` Walapane
 - `LK-2310` Nildandahinna
-- `LK-2312` Nuwara Eliya
 
 ### 🛑 Level 3 - "evacuate"
-
-#### `LK-21` Kandy
-
-- `LK-2118` Ududumbara
-- `LK-2121` Minipe
-- `LK-2124` Medadumbara
-- `LK-2142` Doluwa
-- `LK-2154` Ganga Ihala Korale
