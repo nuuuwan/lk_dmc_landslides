@@ -7,7 +7,7 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2025-12-18)
+## Latest Warnings (2025-12-19)
 
 ### 🟡 Level 1 - "watch"
 
@@ -16,10 +16,6 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-8109` Meegahakiula
 - `LK-8112` Kandeketiya
 - `LK-8115` Soranathota
-- `LK-8118` Passara
-- `LK-8119` Lunugala
-- `LK-8121` Badulla
-- `LK-8124` Hali-Ela
 - `LK-8127` Uvaparanagama
 - `LK-8130` Welimada
 - `LK-8133` Bandarawela
@@ -34,18 +30,6 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-6184` Alawwa
 - `LK-6187` Polgahawela
 
-#### `LK-22` Matale
-
-- `LK-2209` Naula
-- `LK-2212` Pallepola
-- `LK-2215` Yatawatta
-- `LK-2218` Matale
-- `LK-2221` Ambanganga
-- `LK-2224` Laggala
-- `LK-2227` Wilgamuwa
-- `LK-2230` Rattota
-- `LK-2233` Ukuwela
-
 #### `LK-23` Nuwara Eliya
 
 - `LK-2303` Kothmale East
@@ -56,6 +40,13 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ### 🟠 Level 2 - "alert"
 
+#### `LK-81` Badulla
+
+- `LK-8118` Passara
+- `LK-8119` Lunugala
+- `LK-8121` Badulla
+- `LK-8124` Hali-Ela
+
 #### `LK-21` Kandy
 
 - `LK-2103` Tumpane
@@ -63,7 +54,6 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-2109` Akurana
 - `LK-2112` Pathadumbara
 - `LK-2115` Panvila
-- `LK-2121` Minipe
 - `LK-2127` Kundasale
 - `LK-2130` Gangawata Korale
 - `LK-2133` Harispattuwa
@@ -80,6 +70,18 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 - `LK-6163` Rideegama
 
+#### `LK-22` Matale
+
+- `LK-2209` Naula
+- `LK-2212` Pallepola
+- `LK-2215` Yatawatta
+- `LK-2218` Matale
+- `LK-2221` Ambanganga
+- `LK-2224` Laggala
+- `LK-2227` Wilgamuwa
+- `LK-2230` Rattota
+- `LK-2233` Ukuwela
+
 #### `LK-23` Nuwara Eliya
 
 - `LK-2312` Nuwara Eliya
@@ -89,6 +91,7 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 #### `LK-21` Kandy
 
 - `LK-2118` Ududumbara
+- `LK-2121` Minipe
 - `LK-2124` Medadumbara
 - `LK-2142` Doluwa
 
