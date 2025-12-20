@@ -7,15 +7,12 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2025-12-19)
+## Latest Warnings (2025-12-20)
 
 ### 🟡 Level 1 - "watch"
 
 #### `LK-81` Badulla
 
-- `LK-8109` Meegahakiula
-- `LK-8112` Kandeketiya
-- `LK-8115` Soranathota
 - `LK-8127` Uvaparanagama
 - `LK-8130` Welimada
 - `LK-8133` Bandarawela
@@ -42,6 +39,9 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 #### `LK-81` Badulla
 
+- `LK-8109` Meegahakiula
+- `LK-8112` Kandeketiya
+- `LK-8115` Soranathota
 - `LK-8118` Passara
 - `LK-8119` Lunugala
 - `LK-8121` Badulla
