@@ -7,7 +7,7 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2025-12-20)
+## Latest Warnings (2025-12-21)
 
 ### 🟡 Level 1 - "watch"
 
@@ -60,6 +60,7 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-2134` Hatharaliyadda
 - `LK-2136` Yatinuwara
 - `LK-2139` Udunuwara
+- `LK-2142` Doluwa
 - `LK-2145` Pathahewaheta
 - `LK-2148` Deltota
 - `LK-2151` Udapalatha
@@ -93,7 +94,6 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-2118` Ududumbara
 - `LK-2121` Minipe
 - `LK-2124` Medadumbara
-- `LK-2142` Doluwa
 
 #### `LK-23` Nuwara Eliya
 
