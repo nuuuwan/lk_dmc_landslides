@@ -7,35 +7,9 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2025-12-21)
+## Latest Warnings (2025-12-22)
 
 ### 🟡 Level 1 - "watch"
-
-#### `LK-81` Badulla
-
-- `LK-8127` Uvaparanagama
-- `LK-8130` Welimada
-- `LK-8133` Bandarawela
-- `LK-8136` Ella
-- `LK-8139` Haputale
-- `LK-8142` Haldummulla
-
-#### `LK-61` Kurunegala
-
-- `LK-6157` Mallawapitiya
-- `LK-6160` Mawathagama
-- `LK-6184` Alawwa
-- `LK-6187` Polgahawela
-
-#### `LK-23` Nuwara Eliya
-
-- `LK-2303` Kothmale East
-- `LK-2304` Kothmale West
-- `LK-2313` Thalawakele
-- `LK-2315` Ambagamuwa Korale
-- `LK-2316` Norwood
-
-### 🟠 Level 2 - "alert"
 
 #### `LK-81` Badulla
 
@@ -87,7 +61,7 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 - `LK-2312` Nuwara Eliya
 
-### 🛑 Level 3 - "evacuate"
+### 🟠 Level 2 - "alert"
 
 #### `LK-21` Kandy
 
@@ -101,3 +75,5 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-2307` Mathurata
 - `LK-2309` Walapane
 - `LK-2310` Nildandahinna
+
+### 🛑 Level 3 - "evacuate"
