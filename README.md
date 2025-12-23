@@ -7,7 +7,7 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2025-12-22)
+## Latest Warnings (2025-12-23)
 
 ### 🟡 Level 1 - "watch"
 
