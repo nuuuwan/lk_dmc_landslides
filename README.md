@@ -7,73 +7,22 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2025-12-23)
+## Latest Warnings (2026-01-05)
 
 ### 🟡 Level 1 - "watch"
-
-#### `LK-81` Badulla
-
-- `LK-8109` Meegahakiula
-- `LK-8112` Kandeketiya
-- `LK-8115` Soranathota
-- `LK-8118` Passara
-- `LK-8119` Lunugala
-- `LK-8121` Badulla
-- `LK-8124` Hali-Ela
-
-#### `LK-21` Kandy
-
-- `LK-2103` Tumpane
-- `LK-2106` Poojapitiya
-- `LK-2109` Akurana
-- `LK-2112` Pathadumbara
-- `LK-2115` Panvila
-- `LK-2127` Kundasale
-- `LK-2130` Gangawata Korale
-- `LK-2133` Harispattuwa
-- `LK-2134` Hatharaliyadda
-- `LK-2136` Yatinuwara
-- `LK-2139` Udunuwara
-- `LK-2142` Doluwa
-- `LK-2145` Pathahewaheta
-- `LK-2148` Deltota
-- `LK-2151` Udapalatha
-- `LK-2154` Ganga Ihala Korale
-- `LK-2157` Pasbagekorale
-
-#### `LK-61` Kurunegala
-
-- `LK-6163` Rideegama
-
-#### `LK-22` Matale
-
-- `LK-2209` Naula
-- `LK-2212` Pallepola
-- `LK-2215` Yatawatta
-- `LK-2218` Matale
-- `LK-2221` Ambanganga
-- `LK-2224` Laggala
-- `LK-2227` Wilgamuwa
-- `LK-2230` Rattota
-- `LK-2233` Ukuwela
-
-#### `LK-23` Nuwara Eliya
-
-- `LK-2312` Nuwara Eliya
-
-### 🟠 Level 2 - "alert"
 
 #### `LK-21` Kandy
 
 - `LK-2118` Ududumbara
-- `LK-2121` Minipe
-- `LK-2124` Medadumbara
+
+#### `LK-22` Matale
+
+- `LK-2227` Wilgamuwa
 
 #### `LK-23` Nuwara Eliya
 
-- `LK-2306` Hanguranketa
-- `LK-2307` Mathurata
 - `LK-2309` Walapane
-- `LK-2310` Nildandahinna
+
+### 🟠 Level 2 - "alert"
 
 ### 🛑 Level 3 - "evacuate"
