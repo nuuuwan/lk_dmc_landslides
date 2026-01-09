@@ -7,7 +7,7 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2026-01-08)
+## Latest Warnings (2026-01-09)
 
 ### 🟡 Level 1 - "watch"
 
@@ -22,20 +22,22 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-8127` Uvaparanagama
 - `LK-8130` Welimada
 
+#### `LK-21` Kandy
+
+- `LK-2121` Minipe
+
 #### `LK-22` Matale
 
+- `LK-2209` Naula
 - `LK-2221` Ambanganga
+- `LK-2230` Rattota
+- `LK-2233` Ukuwela
 
 #### `LK-23` Nuwara Eliya
 
-- `LK-2306` Hanguranketa
-- `LK-2307` Mathurata
+- `LK-2312` Nuwara Eliya
 
 ### 🟠 Level 2 - "alert"
-
-#### `LK-21` Kandy
-
-- `LK-2118` Ududumbara
 
 #### `LK-22` Matale
 
@@ -43,7 +45,16 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 #### `LK-23` Nuwara Eliya
 
-- `LK-2309` Walapane
-- `LK-2310` Nildandahinna
+- `LK-2306` Hanguranketa
+- `LK-2307` Mathurata
 
 ### 🛑 Level 3 - "evacuate"
+
+#### `LK-21` Kandy
+
+- `LK-2118` Ududumbara
+
+#### `LK-23` Nuwara Eliya
+
+- `LK-2309` Walapane
+- `LK-2310` Nildandahinna
