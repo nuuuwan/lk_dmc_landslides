@@ -7,40 +7,19 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2026-01-10)
+## Latest Warnings (2026-02-13)
 
 ### 🟡 Level 1 - "watch"
 
-#### `LK-81` Badulla
-
-- `LK-8109` Meegahakiula
-- `LK-8112` Kandeketiya
-- `LK-8118` Passara
-- `LK-8119` Lunugala
-- `LK-8121` Badulla
-- `LK-8124` Hali-Ela
-- `LK-8127` Uvaparanagama
-- `LK-8130` Welimada
-
 #### `LK-21` Kandy
 
-- `LK-2118` Ududumbara
-- `LK-2121` Minipe
+- `LK-2145` Pathahewaheta
 
-#### `LK-22` Matale
-
-- `LK-2221` Ambanganga
-- `LK-2227` Wilgamuwa
-- `LK-2230` Rattota
-- `LK-2233` Ukuwela
+### 🟠 Level 2 - "alert"
 
 #### `LK-23` Nuwara Eliya
 
-- `LK-2306` Hanguranketa
-- `LK-2307` Mathurata
 - `LK-2309` Walapane
 - `LK-2310` Nildandahinna
-
-### 🟠 Level 2 - "alert"
 
 ### 🛑 Level 3 - "evacuate"
