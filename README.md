@@ -7,13 +7,13 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2026-02-14)
+## Latest Warnings (2026-02-15)
 
 ### 🟡 Level 1 - "watch"
 
-#### `LK-21` Kandy
+#### `LK-22` Matale
 
-- `LK-2145` Pathahewaheta
+- `LK-2227` Wilgamuwa
 
 ### 🟠 Level 2 - "alert"
 
