@@ -7,7 +7,7 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2026-02-15)
+## Latest Warnings (2026-02-16)
 
 ### 🟡 Level 1 - "watch"
 
@@ -15,11 +15,11 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 - `LK-2227` Wilgamuwa
 
-### 🟠 Level 2 - "alert"
-
 #### `LK-23` Nuwara Eliya
 
 - `LK-2309` Walapane
 - `LK-2310` Nildandahinna
+
+### 🟠 Level 2 - "alert"
 
 ### 🛑 Level 3 - "evacuate"
