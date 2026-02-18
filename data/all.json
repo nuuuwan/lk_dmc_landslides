@@ -1,5 +1,17 @@
 [
   {
+    "date_id": "2026-02-18",
+    "level_to_district_to_dsds": {
+      "1": {
+        "LK-22": [
+          "LK-2209"
+        ]
+      },
+      "2": {},
+      "3": {}
+    }
+  },
+  {
     "date_id": "2026-02-16",
     "level_to_district_to_dsds": {
       "1": {

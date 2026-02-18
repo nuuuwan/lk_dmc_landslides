@@ -7,18 +7,13 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2026-02-16)
+## Latest Warnings (2026-02-18)
 
 ### 🟡 Level 1 - "watch"
 
 #### `LK-22` Matale
 
-- `LK-2227` Wilgamuwa
-
-#### `LK-23` Nuwara Eliya
-
-- `LK-2309` Walapane
-- `LK-2310` Nildandahinna
+- `LK-2209` Naula
 
 ### 🟠 Level 2 - "alert"
 
