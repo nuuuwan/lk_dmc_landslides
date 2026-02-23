@@ -7,7 +7,7 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2026-02-22)
+## Latest Warnings (2026-02-23)
 
 ### 🟡 Level 1 - "watch"
 
@@ -71,29 +71,8 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 #### `LK-21` Kandy
 
 - `LK-2112` Pathadumbara
-- `LK-2124` Medadumbara
-
-#### `LK-82` Monaragala
-
-- `LK-8218` Badalkumbura
-
-#### `LK-23` Nuwara Eliya
-
-- `LK-2309` Walapane
-- `LK-2310` Nildandahinna
-- `LK-2316` Norwood
-
-#### `LK-91` Ratnapura
-
-- `LK-9109` Kiriella
-- `LK-9130` Ayagama
-- `LK-9133` Kalawana
-
-### 🛑 Level 3 - "evacuate"
-
-#### `LK-21` Kandy
-
 - `LK-2118` Ududumbara
+- `LK-2124` Medadumbara
 - `LK-2136` Yatinuwara
 - `LK-2142` Doluwa
 - `LK-2154` Ganga Ihala Korale
@@ -114,6 +93,20 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-2230` Rattota
 - `LK-2233` Ukuwela
 
+#### `LK-82` Monaragala
+
+- `LK-8218` Badalkumbura
+
+#### `LK-23` Nuwara Eliya
+
+- `LK-2309` Walapane
+- `LK-2310` Nildandahinna
+
 #### `LK-91` Ratnapura
 
+- `LK-9109` Kiriella
 - `LK-9112` Ratnapura
+- `LK-9130` Ayagama
+- `LK-9133` Kalawana
+
+### 🛑 Level 3 - "evacuate"
