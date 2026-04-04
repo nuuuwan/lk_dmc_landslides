@@ -1,107 +1,12 @@
 [
   {
-    "id": "LK-8142",
-    "time_ut": 1771871400.0,
+    "id": "LK-9112",
+    "time_ut": 1775241000.0,
     "threat_level": "1"
   },
   {
-    "id": "LK-3115",
-    "time_ut": 1771871400.0,
-    "threat_level": "1"
-  },
-  {
-    "id": "LK-2112",
-    "time_ut": 1771871400.0,
-    "threat_level": "1"
-  },
-  {
-    "id": "LK-2118",
-    "time_ut": 1771871400.0,
-    "threat_level": "1"
-  },
-  {
-    "id": "LK-2124",
-    "time_ut": 1771871400.0,
-    "threat_level": "1"
-  },
-  {
-    "id": "LK-2136",
-    "time_ut": 1771871400.0,
-    "threat_level": "1"
-  },
-  {
-    "id": "LK-2142",
-    "time_ut": 1771871400.0,
-    "threat_level": "1"
-  },
-  {
-    "id": "LK-2154",
-    "time_ut": 1771871400.0,
-    "threat_level": "1"
-  },
-  {
-    "id": "LK-9206",
-    "time_ut": 1771871400.0,
-    "threat_level": "1"
-  },
-  {
-    "id": "LK-9209",
-    "time_ut": 1771871400.0,
-    "threat_level": "1"
-  },
-  {
-    "id": "LK-9212",
-    "time_ut": 1771871400.0,
-    "threat_level": "1"
-  },
-  {
-    "id": "LK-9227",
-    "time_ut": 1771871400.0,
-    "threat_level": "1"
-  },
-  {
-    "id": "LK-9230",
-    "time_ut": 1771871400.0,
-    "threat_level": "1"
-  },
-  {
-    "id": "LK-2221",
-    "time_ut": 1771871400.0,
-    "threat_level": "1"
-  },
-  {
-    "id": "LK-2224",
-    "time_ut": 1771871400.0,
-    "threat_level": "1"
-  },
-  {
-    "id": "LK-2227",
-    "time_ut": 1771871400.0,
-    "threat_level": "1"
-  },
-  {
-    "id": "LK-2230",
-    "time_ut": 1771871400.0,
-    "threat_level": "1"
-  },
-  {
-    "id": "LK-2233",
-    "time_ut": 1771871400.0,
-    "threat_level": "1"
-  },
-  {
-    "id": "LK-8218",
-    "time_ut": 1771871400.0,
-    "threat_level": "1"
-  },
-  {
-    "id": "LK-2309",
-    "time_ut": 1771871400.0,
-    "threat_level": "1"
-  },
-  {
-    "id": "LK-2310",
-    "time_ut": 1771871400.0,
+    "id": "LK-9151",
+    "time_ut": 1775241000.0,
     "threat_level": "1"
   }
 ]
