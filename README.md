@@ -7,13 +7,9 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2026-04-23)
+## Latest Warnings (2026-04-24)
 
 ### 🟡 Level 1 - "watch"
-
-#### `LK-61` Kurunegala
-
-- `LK-6163` Rideegama
 
 #### `LK-91` Ratnapura
 
