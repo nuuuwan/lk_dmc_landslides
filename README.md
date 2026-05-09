@@ -7,18 +7,18 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2026-04-24)
+## Latest Warnings (2026-05-09)
 
 ### 🟡 Level 1 - "watch"
 
-#### `LK-91` Ratnapura
+#### `LK-81` Badulla
 
-- `LK-9103` Eheliyagoda
-- `LK-9106` Kuruvita
-- `LK-9112` Ratnapura
-- `LK-9124` Pelmadulla
-- `LK-9133` Kalawana
-- `LK-9136` Nivithigala
+- `LK-8118` Passara
+
+#### `LK-82` Monaragala
+
+- `LK-8218` Badalkumbura
+- `LK-8221` Wellawaya
 
 ### 🟠 Level 2 - "alert"
 
