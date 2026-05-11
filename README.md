@@ -7,13 +7,17 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2026-05-10)
+## Latest Warnings (2026-05-11)
 
 ### 🟡 Level 1 - "watch"
 
 #### `LK-81` Badulla
 
-- `LK-8118` Passara
+- `LK-8133` Bandarawela
+
+#### `LK-13` Kalutara
+
+- `LK-1339` Walallawita
 
 #### `LK-61` Kurunegala
 
@@ -32,8 +36,14 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 #### `LK-91` Ratnapura
 
+- `LK-9112` Ratnapura
+- `LK-9133` Kalawana
 - `LK-9142` Godakawela
 
 ### 🟠 Level 2 - "alert"
+
+#### `LK-81` Badulla
+
+- `LK-8118` Passara
 
 ### 🛑 Level 3 - "evacuate"
