@@ -7,12 +7,14 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2026-05-13)
+## Latest Warnings (2026-05-14)
 
 ### 🟡 Level 1 - "watch"
 
 #### `LK-81` Badulla
 
+- `LK-8118` Passara
+- `LK-8124` Hali-Ela
 - `LK-8133` Bandarawela
 
 #### `LK-31` Galle
@@ -30,11 +32,19 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 - `LK-2103` Tumpane
 - `LK-2106` Poojapitiya
+- `LK-2109` Akurana
+- `LK-2115` Panvila
+- `LK-2130` Gangawata Korale
 - `LK-2133` Harispattuwa
 - `LK-2134` Hatharaliyadda
+- `LK-2136` Yatinuwara
 - `LK-2139` Udunuwara
 - `LK-2142` Doluwa
+- `LK-2145` Pathahewaheta
 - `LK-2148` Deltota
+- `LK-2151` Udapalatha
+- `LK-2154` Ganga Ihala Korale
+- `LK-2157` Pasbagekorale
 
 #### `LK-92` Kegalle
 
@@ -62,6 +72,7 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 #### `LK-82` Monaragala
 
+- `LK-8203` Bibile
 - `LK-8218` Badalkumbura
 - `LK-8221` Wellawaya
 
@@ -74,16 +85,13 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 #### `LK-91` Ratnapura
 
 - `LK-9103` Eheliyagoda
+- `LK-9106` Kuruvita
 - `LK-9109` Kiriella
 - `LK-9130` Ayagama
 - `LK-9133` Kalawana
 - `LK-9142` Godakawela
 
 ### 🟠 Level 2 - "alert"
-
-#### `LK-81` Badulla
-
-- `LK-8118` Passara
 
 #### `LK-31` Galle
 
@@ -95,17 +103,6 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-1330` Matugama
 - `LK-1333` Agalawatta
 - `LK-1339` Walallawita
-
-#### `LK-21` Kandy
-
-- `LK-2109` Akurana
-- `LK-2115` Panvila
-- `LK-2130` Gangawata Korale
-- `LK-2136` Yatinuwara
-- `LK-2145` Pathahewaheta
-- `LK-2151` Udapalatha
-- `LK-2154` Ganga Ihala Korale
-- `LK-2157` Pasbagekorale
 
 #### `LK-91` Ratnapura
 
