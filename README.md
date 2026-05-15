@@ -7,7 +7,7 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2026-05-14)
+## Latest Warnings (2026-05-15)
 
 ### 🟡 Level 1 - "watch"
 
@@ -17,11 +17,19 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-8124` Hali-Ela
 - `LK-8133` Bandarawela
 
+#### `LK-11` Colombo
+
+- `LK-1118` Padukka
+
 #### `LK-31` Galle
 
 - `LK-3112` Elpitiya
 - `LK-3115` Niyagama
 - `LK-3118` Thawalama
+
+#### `LK-12` Gampaha
+
+- `LK-1227` Attanagalla
 
 #### `LK-13` Kalutara
 
@@ -32,19 +40,11 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 - `LK-2103` Tumpane
 - `LK-2106` Poojapitiya
-- `LK-2109` Akurana
-- `LK-2115` Panvila
-- `LK-2130` Gangawata Korale
+- `LK-2118` Ududumbara
+- `LK-2124` Medadumbara
 - `LK-2133` Harispattuwa
 - `LK-2134` Hatharaliyadda
-- `LK-2136` Yatinuwara
 - `LK-2139` Udunuwara
-- `LK-2142` Doluwa
-- `LK-2145` Pathahewaheta
-- `LK-2148` Deltota
-- `LK-2151` Udapalatha
-- `LK-2154` Ganga Ihala Korale
-- `LK-2157` Pasbagekorale
 
 #### `LK-92` Kegalle
 
@@ -53,8 +53,10 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-9209` Aranayake
 - `LK-9212` Kegalle
 - `LK-9218` Warakapola
+- `LK-9221` Ruwanwella
 - `LK-9224` Bulathkohipitiya
 - `LK-9227` Yatiyantota
+- `LK-9230` Dehiowita
 
 #### `LK-61` Kurunegala
 
@@ -84,14 +86,16 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 #### `LK-91` Ratnapura
 
-- `LK-9103` Eheliyagoda
-- `LK-9106` Kuruvita
-- `LK-9109` Kiriella
-- `LK-9130` Ayagama
-- `LK-9133` Kalawana
+- `LK-9127` Elapatha
+- `LK-9136` Nivithigala
+- `LK-9139` Kahawattha
 - `LK-9142` Godakawela
 
 ### 🟠 Level 2 - "alert"
+
+#### `LK-11` Colombo
+
+- `LK-1115` Seethawaka
 
 #### `LK-31` Galle
 
@@ -102,11 +106,35 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-1309` Horana
 - `LK-1330` Matugama
 - `LK-1333` Agalawatta
+- `LK-1336` Palindanuwara
 - `LK-1339` Walallawita
+
+#### `LK-21` Kandy
+
+- `LK-2109` Akurana
+- `LK-2115` Panvila
+- `LK-2130` Gangawata Korale
+- `LK-2136` Yatinuwara
+- `LK-2142` Doluwa
+- `LK-2145` Pathahewaheta
+- `LK-2148` Deltota
+- `LK-2151` Udapalatha
+- `LK-2154` Ganga Ihala Korale
+- `LK-2157` Pasbagekorale
+
+#### `LK-61` Kurunegala
+
+- `LK-6181` Narammala
+- `LK-6184` Alawwa
 
 #### `LK-91` Ratnapura
 
+- `LK-9103` Eheliyagoda
+- `LK-9106` Kuruvita
+- `LK-9109` Kiriella
 - `LK-9112` Ratnapura
 - `LK-9124` Pelmadulla
+- `LK-9130` Ayagama
+- `LK-9133` Kalawana
 
 ### 🛑 Level 3 - "evacuate"
