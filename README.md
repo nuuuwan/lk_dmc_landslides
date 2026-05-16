@@ -7,7 +7,7 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2026-05-15)
+## Latest Warnings (2026-05-16)
 
 ### 🟡 Level 1 - "watch"
 
@@ -26,6 +26,7 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-3112` Elpitiya
 - `LK-3115` Niyagama
 - `LK-3118` Thawalama
+- `LK-3121` Neluwa
 
 #### `LK-12` Gampaha
 
@@ -96,10 +97,6 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 #### `LK-11` Colombo
 
 - `LK-1115` Seethawaka
-
-#### `LK-31` Galle
-
-- `LK-3121` Neluwa
 
 #### `LK-13` Kalutara
 
