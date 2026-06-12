@@ -7,34 +7,26 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2026-05-29)
+## Latest Warnings (2026-06-12)
 
 ### 🟡 Level 1 - "watch"
 
 #### `LK-13` Kalutara
 
-- `LK-1312` Bulathsinhala
-- `LK-1330` Matugama
+- `LK-1336` Palindanuwara
 
-#### `LK-92` Kegalle
+#### `LK-21` Kandy
 
-- `LK-9221` Ruwanwella
-- `LK-9224` Bulathkohipitiya
-- `LK-9227` Yatiyantota
-- `LK-9230` Dehiowita
-- `LK-9233` Deraniyagala
+- `LK-2142` Doluwa
 
 #### `LK-91` Ratnapura
 
-- `LK-9103` Eheliyagoda
-- `LK-9106` Kuruvita
-- `LK-9109` Kiriella
 - `LK-9112` Ratnapura
 - `LK-9124` Pelmadulla
-- `LK-9127` Elapatha
 - `LK-9130` Ayagama
 - `LK-9133` Kalawana
 - `LK-9136` Nivithigala
+- `LK-9142` Godakawela
 
 ### 🟠 Level 2 - "alert"
 
