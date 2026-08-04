@@ -7,19 +7,17 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2026-08-03)
+## Latest Warnings (2026-08-04)
 
 ### 🟡 Level 1 - "watch"
 
-#### `LK-21` Kandy
-
-- `LK-2115` Panvila
-- `LK-2124` Medadumbara
-
 #### `LK-92` Kegalle
 
-- `LK-9230` Dehiowita
-- `LK-9233` Deraniyagala
+- `LK-9212` Kegalle
+
+#### `LK-23` Nuwara Eliya
+
+- `LK-2306` Hanguranketa
 
 #### `LK-91` Ratnapura
 
@@ -30,20 +28,25 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 #### `LK-21` Kandy
 
-- `LK-2118` Ududumbara
+- `LK-2115` Panvila
+- `LK-2124` Medadumbara
+- `LK-2142` Doluwa
+- `LK-2148` Deltota
 - `LK-2151` Udapalatha
 
 #### `LK-92` Kegalle
 
 - `LK-9209` Aranayake
-- `LK-9227` Yatiyantota
+- `LK-9224` Bulathkohipitiya
+- `LK-9230` Dehiowita
+- `LK-9233` Deraniyagala
 
 #### `LK-23` Nuwara Eliya
 
 - `LK-2302` Kothmale West
 - `LK-2303` Kothmale East
 - `LK-2312` Nuwara Eliya
-- `LK-2314` Norwood
+- `LK-2313` Thalawakele
 
 #### `LK-91` Ratnapura
 
@@ -55,5 +58,14 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 #### `LK-21` Kandy
 
+- `LK-2118` Ududumbara
 - `LK-2154` Ganga Ihala Korale
 - `LK-2157` Pasbagekorale
+
+#### `LK-92` Kegalle
+
+- `LK-9227` Yatiyantota
+
+#### `LK-23` Nuwara Eliya
+
+- `LK-2314` Norwood
