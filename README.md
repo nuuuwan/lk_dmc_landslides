@@ -7,17 +7,13 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2026-08-05)
+## Latest Warnings (2026-08-06)
 
 ### 🟡 Level 1 - "watch"
 
 #### `LK-92` Kegalle
 
 - `LK-9212` Kegalle
-
-#### `LK-23` Nuwara Eliya
-
-- `LK-2306` Hanguranketa
 
 #### `LK-91` Ratnapura
 
