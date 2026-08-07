@@ -1,122 +1,107 @@
 [
   {
-    "id": "LK-9212",
-    "time_ut": 1785954600.0,
-    "threat_level": "1"
-  },
-  {
-    "id": "LK-9106",
-    "time_ut": 1785954600.0,
-    "threat_level": "1"
-  },
-  {
-    "id": "LK-9136",
-    "time_ut": 1785954600.0,
-    "threat_level": "1"
-  },
-  {
     "id": "LK-2115",
-    "time_ut": 1785954600.0,
-    "threat_level": "2"
+    "time_ut": 1786041000.0,
+    "threat_level": "1"
   },
   {
     "id": "LK-2118",
-    "time_ut": 1785954600.0,
-    "threat_level": "2"
+    "time_ut": 1786041000.0,
+    "threat_level": "1"
   },
   {
     "id": "LK-2124",
-    "time_ut": 1785954600.0,
-    "threat_level": "2"
+    "time_ut": 1786041000.0,
+    "threat_level": "1"
   },
   {
     "id": "LK-2142",
-    "time_ut": 1785954600.0,
-    "threat_level": "2"
+    "time_ut": 1786041000.0,
+    "threat_level": "1"
   },
   {
     "id": "LK-2148",
-    "time_ut": 1785954600.0,
-    "threat_level": "2"
+    "time_ut": 1786041000.0,
+    "threat_level": "1"
   },
   {
     "id": "LK-2151",
-    "time_ut": 1785954600.0,
-    "threat_level": "2"
+    "time_ut": 1786041000.0,
+    "threat_level": "1"
   },
   {
     "id": "LK-2154",
-    "time_ut": 1785954600.0,
-    "threat_level": "2"
-  },
-  {
-    "id": "LK-2157",
-    "time_ut": 1785954600.0,
-    "threat_level": "2"
+    "time_ut": 1786041000.0,
+    "threat_level": "1"
   },
   {
     "id": "LK-9209",
-    "time_ut": 1785954600.0,
-    "threat_level": "2"
+    "time_ut": 1786041000.0,
+    "threat_level": "1"
   },
   {
     "id": "LK-9224",
-    "time_ut": 1785954600.0,
-    "threat_level": "2"
+    "time_ut": 1786041000.0,
+    "threat_level": "1"
   },
   {
     "id": "LK-9227",
-    "time_ut": 1785954600.0,
-    "threat_level": "2"
+    "time_ut": 1786041000.0,
+    "threat_level": "1"
   },
   {
     "id": "LK-9230",
-    "time_ut": 1785954600.0,
-    "threat_level": "2"
+    "time_ut": 1786041000.0,
+    "threat_level": "1"
   },
   {
     "id": "LK-9233",
-    "time_ut": 1785954600.0,
+    "time_ut": 1786041000.0,
+    "threat_level": "1"
+  },
+  {
+    "id": "LK-9112",
+    "time_ut": 1786041000.0,
+    "threat_level": "1"
+  },
+  {
+    "id": "LK-9115",
+    "time_ut": 1786041000.0,
+    "threat_level": "1"
+  },
+  {
+    "id": "LK-9121",
+    "time_ut": 1786041000.0,
+    "threat_level": "1"
+  },
+  {
+    "id": "LK-2157",
+    "time_ut": 1786041000.0,
     "threat_level": "2"
   },
   {
     "id": "LK-2302",
-    "time_ut": 1785954600.0,
+    "time_ut": 1786041000.0,
     "threat_level": "2"
   },
   {
     "id": "LK-2303",
-    "time_ut": 1785954600.0,
+    "time_ut": 1786041000.0,
     "threat_level": "2"
   },
   {
     "id": "LK-2312",
-    "time_ut": 1785954600.0,
+    "time_ut": 1786041000.0,
     "threat_level": "2"
   },
   {
     "id": "LK-2313",
-    "time_ut": 1785954600.0,
+    "time_ut": 1786041000.0,
     "threat_level": "2"
   },
   {
     "id": "LK-2314",
-    "time_ut": 1785954600.0,
-    "threat_level": "2"
-  },
-  {
-    "id": "LK-9112",
-    "time_ut": 1785954600.0,
-    "threat_level": "2"
-  },
-  {
-    "id": "LK-9115",
-    "time_ut": 1785954600.0,
-    "threat_level": "2"
-  },
-  {
-    "id": "LK-9121",
-    "time_ut": 1785954600.0,
+    "time_ut": 1786041000.0,
     "threat_level": "2"
   }
 ]
