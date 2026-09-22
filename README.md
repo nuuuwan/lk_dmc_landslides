@@ -7,7 +7,7 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2026-09-21)
+## Latest Warnings (2026-09-22)
 
 ### 🟡 Level 1 - "watch"
 
@@ -25,6 +25,13 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-1212` Mirigama
 - `LK-1227` Attanagalla
 
+#### `LK-13` Kalutara
+
+- `LK-1310` Ingiriya
+- `LK-1312` Bulathsinhala
+- `LK-1333` Agalawatta
+- `LK-1336` Palindanuwara
+
 #### `LK-21` Kandy
 
 - `LK-2112` Pathadumbara
@@ -34,7 +41,11 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 #### `LK-92` Kegalle
 
-- `LK-9203` Rambukkana
+- `LK-9212` Kegalle
+- `LK-9215` Galigamuwa
+- `LK-9218` Warakapola
+- `LK-9221` Ruwanwella
+- `LK-9224` Bulathkohipitiya
 
 #### `LK-61` Kurunegala
 
@@ -45,56 +56,10 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 #### `LK-32` Matara
 
-- `LK-3209` Pasgoda
-
-#### `LK-91` Ratnapura
-
-- `LK-9103` Eheliyagoda
-- `LK-9115` Imbulpe
-- `LK-9139` Kahawattha
-- `LK-9151` Kolonna
-
-### 🟠 Level 2 - "alert"
-
-#### `LK-11` Colombo
-
-- `LK-1118` Padukka
-
-#### `LK-31` Galle
-
-- `LK-3118` Thawalama
-- `LK-3124` Nagoda
-
-#### `LK-13` Kalutara
-
-- `LK-1310` Ingiriya
-- `LK-1312` Bulathsinhala
-- `LK-1333` Agalawatta
-- `LK-1336` Palindanuwara
-
-#### `LK-21` Kandy
-
-- `LK-2151` Udapalatha
-- `LK-2154` Ganga Ihala Korale
-
-#### `LK-92` Kegalle
-
-- `LK-9212` Kegalle
-- `LK-9215` Galigamuwa
-- `LK-9218` Warakapola
-- `LK-9221` Ruwanwella
-- `LK-9224` Bulathkohipitiya
-
-#### `LK-32` Matara
-
 - `LK-3203` Pitabaddara
 - `LK-3206` Kotapola
 - `LK-3215` Athuraliya
 - `LK-3218` Akuressa
-
-#### `LK-23` Nuwara Eliya
-
-- `LK-2313` Thalawakele
 
 #### `LK-91` Ratnapura
 
@@ -105,11 +70,17 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-9133` Kalawana
 - `LK-9136` Nivithigala
 
-### 🛑 Level 3 - "evacuate"
+### 🟠 Level 2 - "alert"
+
+#### `LK-11` Colombo
+
+- `LK-1118` Padukka
 
 #### `LK-31` Galle
 
+- `LK-3118` Thawalama
 - `LK-3121` Neluwa
+- `LK-3124` Nagoda
 
 #### `LK-13` Kalutara
 
@@ -117,7 +88,8 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 #### `LK-21` Kandy
 
-- `LK-2157` Pasbagekorale
+- `LK-2151` Udapalatha
+- `LK-2154` Ganga Ihala Korale
 
 #### `LK-92` Kegalle
 
@@ -129,10 +101,20 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 #### `LK-23` Nuwara Eliya
 
-- `LK-2302` Kothmale West
-- `LK-2303` Kothmale East
-- `LK-2314` Norwood
+- `LK-2313` Thalawakele
 
 #### `LK-91` Ratnapura
 
 - `LK-9112` Ratnapura
+
+### 🛑 Level 3 - "evacuate"
+
+#### `LK-21` Kandy
+
+- `LK-2157` Pasbagekorale
+
+#### `LK-23` Nuwara Eliya
+
+- `LK-2302` Kothmale West
+- `LK-2303` Kothmale East
+- `LK-2314` Norwood
