@@ -7,13 +7,14 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2026-09-22)
+## Latest Warnings (2026-09-23)
 
 ### 🟡 Level 1 - "watch"
 
 #### `LK-11` Colombo
 
 - `LK-1115` Seethawaka
+- `LK-1118` Padukka
 
 #### `LK-31` Galle
 
@@ -29,8 +30,7 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 - `LK-1310` Ingiriya
 - `LK-1312` Bulathsinhala
-- `LK-1333` Agalawatta
-- `LK-1336` Palindanuwara
+- `LK-1339` Walallawita
 
 #### `LK-21` Kandy
 
@@ -54,13 +54,6 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-6184` Alawwa
 - `LK-6187` Polgahawela
 
-#### `LK-32` Matara
-
-- `LK-3203` Pitabaddara
-- `LK-3206` Kotapola
-- `LK-3215` Athuraliya
-- `LK-3218` Akuressa
-
 #### `LK-91` Ratnapura
 
 - `LK-9106` Kuruvita
@@ -72,19 +65,11 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ### 🟠 Level 2 - "alert"
 
-#### `LK-11` Colombo
-
-- `LK-1118` Padukka
-
 #### `LK-31` Galle
 
 - `LK-3118` Thawalama
 - `LK-3121` Neluwa
 - `LK-3124` Nagoda
-
-#### `LK-13` Kalutara
-
-- `LK-1339` Walallawita
 
 #### `LK-21` Kandy
 
