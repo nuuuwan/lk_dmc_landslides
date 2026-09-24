@@ -7,7 +7,7 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2026-09-23)
+## Latest Warnings (2026-09-24)
 
 ### 🟡 Level 1 - "watch"
 
@@ -18,13 +18,18 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 #### `LK-31` Galle
 
-- `LK-3115` Niyagama
+- `LK-3112` Elpitiya
 - `LK-3127` Baddegama
 
 #### `LK-12` Gampaha
 
 - `LK-1212` Mirigama
 - `LK-1227` Attanagalla
+
+#### `LK-33` Hambantota
+
+- `LK-3324` Katuwana
+- `LK-3325` Walasmulla
 
 #### `LK-13` Kalutara
 
@@ -67,6 +72,7 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 #### `LK-31` Galle
 
+- `LK-3115` Niyagama
 - `LK-3118` Thawalama
 - `LK-3121` Neluwa
 - `LK-3124` Nagoda
@@ -83,6 +89,12 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-9227` Yatiyantota
 - `LK-9230` Dehiowita
 - `LK-9233` Deraniyagala
+
+#### `LK-32` Matara
+
+- `LK-3203` Pitabaddara
+- `LK-3206` Kotapola
+- `LK-3209` Pasgoda
 
 #### `LK-23` Nuwara Eliya
 
