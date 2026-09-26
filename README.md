@@ -7,7 +7,7 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2026-09-25)
+## Latest Warnings (2026-09-26)
 
 ### 🟡 Level 1 - "watch"
 
@@ -16,20 +16,15 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-1115` Seethawaka
 - `LK-1118` Padukka
 
-#### `LK-12` Gampaha
+#### `LK-31` Galle
 
-- `LK-1212` Mirigama
-- `LK-1227` Attanagalla
-
-#### `LK-33` Hambantota
-
-- `LK-3324` Katuwana
-- `LK-3325` Walasmulla
+- `LK-3109` Karandeniya
+- `LK-3112` Elpitiya
+- `LK-3127` Baddegama
 
 #### `LK-13` Kalutara
 
-- `LK-1310` Ingiriya
-- `LK-1312` Bulathsinhala
+- `LK-1339` Walallawita
 
 #### `LK-21` Kandy
 
@@ -51,13 +46,6 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-9218` Warakapola
 - `LK-9221` Ruwanwella
 - `LK-9224` Bulathkohipitiya
-
-#### `LK-61` Kurunegala
-
-- `LK-6157` Mallawapitiya
-- `LK-6160` Mawathagama
-- `LK-6184` Alawwa
-- `LK-6187` Polgahawela
 
 #### `LK-32` Matara
 
@@ -81,13 +69,10 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 #### `LK-31` Galle
 
-- `LK-3109` Karandeniya
-- `LK-3112` Elpitiya
-- `LK-3127` Baddegama
-
-#### `LK-13` Kalutara
-
-- `LK-1339` Walallawita
+- `LK-3115` Niyagama
+- `LK-3118` Thawalama
+- `LK-3121` Neluwa
+- `LK-3124` Nagoda
 
 #### `LK-21` Kandy
 
@@ -115,13 +100,6 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-9124` Pelmadulla
 
 ### 🛑 Level 3 - "evacuate"
-
-#### `LK-31` Galle
-
-- `LK-3115` Niyagama
-- `LK-3118` Thawalama
-- `LK-3121` Neluwa
-- `LK-3124` Nagoda
 
 #### `LK-21` Kandy
 
