@@ -7,14 +7,9 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2026-09-26)
+## Latest Warnings (2026-09-27)
 
 ### 🟡 Level 1 - "watch"
-
-#### `LK-11` Colombo
-
-- `LK-1115` Seethawaka
-- `LK-1118` Padukka
 
 #### `LK-31` Galle
 
@@ -28,16 +23,12 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 #### `LK-21` Kandy
 
-- `LK-2103` Tumpane
-- `LK-2106` Poojapitiya
-- `LK-2109` Akurana
-- `LK-2112` Pathadumbara
-- `LK-2118` Ududumbara
 - `LK-2124` Medadumbara
-- `LK-2127` Kundasale
-- `LK-2133` Harispattuwa
-- `LK-2134` Hatharaliyadda
-- `LK-2145` Pathahewaheta
+- `LK-2136` Yatinuwara
+- `LK-2142` Doluwa
+- `LK-2151` Udapalatha
+- `LK-2154` Ganga Ihala Korale
+- `LK-2157` Pasbagekorale
 
 #### `LK-92` Kegalle
 
@@ -55,15 +46,16 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 #### `LK-23` Nuwara Eliya
 
+- `LK-2302` Kothmale West
+- `LK-2303` Kothmale East
 - `LK-2312` Nuwara Eliya
+- `LK-2313` Thalawakele
+- `LK-2314` Norwood
 
 #### `LK-91` Ratnapura
 
-- `LK-9106` Kuruvita
-- `LK-9127` Elapatha
-- `LK-9130` Ayagama
-- `LK-9133` Kalawana
-- `LK-9136` Nivithigala
+- `LK-9112` Ratnapura
+- `LK-9124` Pelmadulla
 
 ### 🟠 Level 2 - "alert"
 
@@ -74,14 +66,6 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-3121` Neluwa
 - `LK-3124` Nagoda
 
-#### `LK-21` Kandy
-
-- `LK-2115` Panvila
-- `LK-2130` Gangawata Korale
-- `LK-2136` Yatinuwara
-- `LK-2139` Udunuwara
-- `LK-2148` Deltota
-
 #### `LK-92` Kegalle
 
 - `LK-9206` Mawanella
@@ -90,26 +74,4 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-9230` Dehiowita
 - `LK-9233` Deraniyagala
 
-#### `LK-23` Nuwara Eliya
-
-- `LK-2313` Thalawakele
-
-#### `LK-91` Ratnapura
-
-- `LK-9112` Ratnapura
-- `LK-9124` Pelmadulla
-
 ### 🛑 Level 3 - "evacuate"
-
-#### `LK-21` Kandy
-
-- `LK-2142` Doluwa
-- `LK-2151` Udapalatha
-- `LK-2154` Ganga Ihala Korale
-- `LK-2157` Pasbagekorale
-
-#### `LK-23` Nuwara Eliya
-
-- `LK-2302` Kothmale West
-- `LK-2303` Kothmale East
-- `LK-2314` Norwood
