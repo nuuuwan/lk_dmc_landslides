@@ -7,7 +7,7 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2026-10-04)
+## Latest Warnings (2026-10-05)
 
 ### 🟡 Level 1 - "watch"
 
@@ -23,6 +23,7 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 #### `LK-91` Ratnapura
 
 - `LK-9103` Eheliyagoda
+- `LK-9112` Ratnapura
 - `LK-9130` Ayagama
 - `LK-9145` Weligepola
 
