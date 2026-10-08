@@ -7,7 +7,7 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2026-10-07)
+## Latest Warnings (2026-10-08)
 
 ### 🟡 Level 1 - "watch"
 
@@ -17,11 +17,20 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 #### `LK-21` Kandy
 
-- `LK-2118` Ududumbara
+- `LK-2134` Hatharaliyadda
+- `LK-2136` Yatinuwara
 
 #### `LK-92` Kegalle
 
+- `LK-9203` Rambukkana
+- `LK-9209` Aranayake
+- `LK-9212` Kegalle
+- `LK-9227` Yatiyantota
 - `LK-9230` Dehiowita
+
+#### `LK-61` Kurunegala
+
+- `LK-6184` Alawwa
 
 #### `LK-91` Ratnapura
 
@@ -29,12 +38,15 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-9106` Kuruvita
 - `LK-9112` Ratnapura
 - `LK-9130` Ayagama
+- `LK-9133` Kalawana
 - `LK-9145` Weligepola
 
 ### 🟠 Level 2 - "alert"
 
-#### `LK-81` Badulla
+#### `LK-92` Kegalle
 
-- `LK-8118` Passara
+- `LK-9206` Mawanella
+- `LK-9221` Ruwanwella
+- `LK-9224` Bulathkohipitiya
 
 ### 🛑 Level 3 - "evacuate"
