@@ -7,14 +7,20 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2026-10-09)
+## Latest Warnings (2026-10-10)
 
 ### 🟡 Level 1 - "watch"
 
+#### `LK-13` Kalutara
+
+- `LK-1339` Walallawita
+
 #### `LK-21` Kandy
 
+- `LK-2103` Tumpane
 - `LK-2134` Hatharaliyadda
 - `LK-2136` Yatinuwara
+- `LK-2142` Doluwa
 
 #### `LK-92` Kegalle
 
@@ -27,7 +33,19 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 #### `LK-61` Kurunegala
 
+- `LK-6157` Mallawapitiya
+- `LK-6160` Mawathagama
 - `LK-6184` Alawwa
+
+#### `LK-22` Matale
+
+- `LK-2218` Matale
+- `LK-2221` Ambanganga
+- `LK-2230` Rattota
+
+#### `LK-23` Nuwara Eliya
+
+- `LK-2306` Hanguranketa
 
 #### `LK-91` Ratnapura
 
