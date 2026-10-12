@@ -7,7 +7,7 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2026-10-11)
+## Latest Warnings (2026-10-12)
 
 ### 🟡 Level 1 - "watch"
 
@@ -16,17 +16,14 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-8118` Passara
 - `LK-8136` Ella
 
-#### `LK-13` Kalutara
+#### `LK-11` Colombo
 
-- `LK-1312` Bulathsinhala
-- `LK-1339` Walallawita
+- `LK-1118` Padukka
 
 #### `LK-21` Kandy
 
 - `LK-2103` Tumpane
 - `LK-2134` Hatharaliyadda
-- `LK-2136` Yatinuwara
-- `LK-2142` Doluwa
 
 #### `LK-92` Kegalle
 
@@ -36,12 +33,6 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-9218` Warakapola
 - `LK-9227` Yatiyantota
 - `LK-9230` Dehiowita
-
-#### `LK-61` Kurunegala
-
-- `LK-6157` Mallawapitiya
-- `LK-6160` Mawathagama
-- `LK-6184` Alawwa
 
 #### `LK-22` Matale
 
