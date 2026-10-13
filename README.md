@@ -7,7 +7,7 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2026-10-12)
+## Latest Warnings (2026-10-13)
 
 ### 🟡 Level 1 - "watch"
 
@@ -20,6 +20,16 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 - `LK-1118` Padukka
 
+#### `LK-33` Hambantota
+
+- `LK-3324` Katuwana
+- `LK-3325` Walasmulla
+
+#### `LK-13` Kalutara
+
+- `LK-1312` Bulathsinhala
+- `LK-1336` Palindanuwara
+
 #### `LK-21` Kandy
 
 - `LK-2103` Tumpane
@@ -28,9 +38,12 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 #### `LK-92` Kegalle
 
 - `LK-9203` Rambukkana
+- `LK-9206` Mawanella
 - `LK-9209` Aranayake
 - `LK-9212` Kegalle
 - `LK-9218` Warakapola
+- `LK-9221` Ruwanwella
+- `LK-9224` Bulathkohipitiya
 - `LK-9227` Yatiyantota
 - `LK-9230` Dehiowita
 
@@ -39,6 +52,12 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-2218` Matale
 - `LK-2221` Ambanganga
 - `LK-2230` Rattota
+
+#### `LK-32` Matara
+
+- `LK-3209` Pasgoda
+- `LK-3212` Mulatiyana
+- `LK-3215` Athuraliya
 
 #### `LK-23` Nuwara Eliya
 
@@ -57,10 +76,8 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ### 🟠 Level 2 - "alert"
 
-#### `LK-92` Kegalle
+#### `LK-91` Ratnapura
 
-- `LK-9206` Mawanella
-- `LK-9221` Ruwanwella
-- `LK-9224` Bulathkohipitiya
+- `LK-9151` Kolonna
 
 ### 🛑 Level 3 - "evacuate"
