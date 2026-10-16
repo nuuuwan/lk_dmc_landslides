@@ -7,25 +7,14 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2026-10-15)
+## Latest Warnings (2026-10-16)
 
 ### 🟡 Level 1 - "watch"
-
-#### `LK-12` Gampaha
-
-- `LK-1227` Attanagalla
-
-#### `LK-33` Hambantota
-
-- `LK-3324` Katuwana
-- `LK-3325` Walasmulla
 
 #### `LK-13` Kalutara
 
 - `LK-1312` Bulathsinhala
-- `LK-1327` Dodangoda
 - `LK-1336` Palindanuwara
-- `LK-1339` Walallawita
 
 #### `LK-21` Kandy
 
@@ -35,6 +24,7 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-2136` Yatinuwara
 - `LK-2139` Udunuwara
 - `LK-2148` Deltota
+- `LK-2151` Udapalatha
 
 #### `LK-92` Kegalle
 
@@ -47,19 +37,13 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 #### `LK-61` Kurunegala
 
-- `LK-6127` Polpitigama
+- `LK-6163` Rideegama
 
 #### `LK-22` Matale
 
 - `LK-2218` Matale
 - `LK-2221` Ambanganga
 - `LK-2233` Ukuwela
-
-#### `LK-32` Matara
-
-- `LK-3209` Pasgoda
-- `LK-3212` Mulatiyana
-- `LK-3215` Athuraliya
 
 #### `LK-91` Ratnapura
 
@@ -76,15 +60,16 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ### 🟠 Level 2 - "alert"
 
+#### `LK-81` Badulla
+
+- `LK-8118` Passara
+- `LK-8139` Haputale
+
 #### `LK-92` Kegalle
 
 - `LK-9206` Mawanella
 - `LK-9209` Aranayake
 - `LK-9224` Bulathkohipitiya
-
-#### `LK-61` Kurunegala
-
-- `LK-6163` Rideegama
 
 #### `LK-22` Matale
 
