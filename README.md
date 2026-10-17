@@ -7,19 +7,19 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2026-10-16)
+## Latest Warnings (2026-10-17)
 
 ### 🟡 Level 1 - "watch"
-
-#### `LK-13` Kalutara
-
-- `LK-1312` Bulathsinhala
-- `LK-1336` Palindanuwara
 
 #### `LK-21` Kandy
 
 - `LK-2103` Tumpane
+- `LK-2106` Poojapitiya
+- `LK-2109` Akurana
 - `LK-2115` Panvila
+- `LK-2118` Ududumbara
+- `LK-2124` Medadumbara
+- `LK-2133` Harispattuwa
 - `LK-2134` Hatharaliyadda
 - `LK-2136` Yatinuwara
 - `LK-2139` Udunuwara
@@ -32,7 +32,6 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-9212` Kegalle
 - `LK-9218` Warakapola
 - `LK-9221` Ruwanwella
-- `LK-9227` Yatiyantota
 - `LK-9230` Dehiowita
 
 #### `LK-61` Kurunegala
@@ -48,8 +47,6 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 #### `LK-91` Ratnapura
 
 - `LK-9103` Eheliyagoda
-- `LK-9106` Kuruvita
-- `LK-9112` Ratnapura
 - `LK-9115` Imbulpe
 - `LK-9118` Balangoda
 - `LK-9130` Ayagama
@@ -70,6 +67,7 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-9206` Mawanella
 - `LK-9209` Aranayake
 - `LK-9224` Bulathkohipitiya
+- `LK-9227` Yatiyantota
 
 #### `LK-22` Matale
 
@@ -84,6 +82,7 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 #### `LK-91` Ratnapura
 
+- `LK-9112` Ratnapura
 - `LK-9127` Elapatha
 
 ### 🛑 Level 3 - "evacuate"
