@@ -7,9 +7,15 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2026-10-17)
+## Latest Warnings (2026-10-18)
 
 ### 🟡 Level 1 - "watch"
+
+#### `LK-81` Badulla
+
+- `LK-8118` Passara
+- `LK-8139` Haputale
+- `LK-8142` Haldummulla
 
 #### `LK-21` Kandy
 
@@ -57,11 +63,6 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ### 🟠 Level 2 - "alert"
 
-#### `LK-81` Badulla
-
-- `LK-8118` Passara
-- `LK-8139` Haputale
-
 #### `LK-92` Kegalle
 
 - `LK-9206` Mawanella
@@ -82,6 +83,7 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 #### `LK-91` Ratnapura
 
+- `LK-9106` Kuruvita
 - `LK-9112` Ratnapura
 - `LK-9127` Elapatha
 
