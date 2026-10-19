@@ -7,7 +7,7 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2026-10-18)
+## Latest Warnings (2026-10-19)
 
 ### 🟡 Level 1 - "watch"
 
@@ -17,21 +17,6 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-8139` Haputale
 - `LK-8142` Haldummulla
 
-#### `LK-21` Kandy
-
-- `LK-2103` Tumpane
-- `LK-2106` Poojapitiya
-- `LK-2109` Akurana
-- `LK-2115` Panvila
-- `LK-2118` Ududumbara
-- `LK-2124` Medadumbara
-- `LK-2133` Harispattuwa
-- `LK-2134` Hatharaliyadda
-- `LK-2136` Yatinuwara
-- `LK-2139` Udunuwara
-- `LK-2148` Deltota
-- `LK-2151` Udapalatha
-
 #### `LK-92` Kegalle
 
 - `LK-9203` Rambukkana
@@ -40,15 +25,19 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-9221` Ruwanwella
 - `LK-9230` Dehiowita
 
-#### `LK-61` Kurunegala
-
-- `LK-6163` Rideegama
-
 #### `LK-22` Matale
 
 - `LK-2218` Matale
 - `LK-2221` Ambanganga
+- `LK-2230` Rattota
 - `LK-2233` Ukuwela
+
+#### `LK-23` Nuwara Eliya
+
+- `LK-2306` Hanguranketa
+- `LK-2307` Mathurata
+- `LK-2309` Walapane
+- `LK-2310` Nildandahinna
 
 #### `LK-91` Ratnapura
 
@@ -69,17 +58,6 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-9209` Aranayake
 - `LK-9224` Bulathkohipitiya
 - `LK-9227` Yatiyantota
-
-#### `LK-22` Matale
-
-- `LK-2230` Rattota
-
-#### `LK-23` Nuwara Eliya
-
-- `LK-2306` Hanguranketa
-- `LK-2307` Mathurata
-- `LK-2309` Walapane
-- `LK-2310` Nildandahinna
 
 #### `LK-91` Ratnapura
 
