@@ -7,37 +7,49 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2026-10-20)
+## Latest Warnings (2026-10-21)
 
 ### 🟡 Level 1 - "watch"
 
 #### `LK-81` Badulla
 
 - `LK-8118` Passara
+- `LK-8124` Hali-Ela
+- `LK-8127` Uvaparanagama
 - `LK-8139` Haputale
 - `LK-8142` Haldummulla
 
+#### `LK-21` Kandy
+
+- `LK-2118` Ududumbara
+- `LK-2136` Yatinuwara
+- `LK-2139` Udunuwara
+- `LK-2148` Deltota
+
 #### `LK-92` Kegalle
 
-- `LK-9203` Rambukkana
-- `LK-9212` Kegalle
-- `LK-9218` Warakapola
-- `LK-9221` Ruwanwella
-- `LK-9230` Dehiowita
+- `LK-9206` Mawanella
+- `LK-9209` Aranayake
+- `LK-9224` Bulathkohipitiya
+- `LK-9227` Yatiyantota
 
-#### `LK-22` Matale
+#### `LK-61` Kurunegala
 
-- `LK-2218` Matale
-- `LK-2221` Ambanganga
-- `LK-2230` Rattota
-- `LK-2233` Ukuwela
+- `LK-6160` Mawathagama
+
+#### `LK-82` Monaragala
+
+- `LK-8209` Medagama
 
 #### `LK-23` Nuwara Eliya
 
+- `LK-2302` Kothmale West
+- `LK-2303` Kothmale East
 - `LK-2306` Hanguranketa
 - `LK-2307` Mathurata
 - `LK-2309` Walapane
 - `LK-2310` Nildandahinna
+- `LK-2314` Norwood
 
 #### `LK-91` Ratnapura
 
@@ -52,12 +64,11 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ### 🟠 Level 2 - "alert"
 
-#### `LK-92` Kegalle
+#### `LK-21` Kandy
 
-- `LK-9206` Mawanella
-- `LK-9209` Aranayake
-- `LK-9224` Bulathkohipitiya
-- `LK-9227` Yatiyantota
+- `LK-2124` Medadumbara
+- `LK-2127` Kundasale
+- `LK-2151` Udapalatha
 
 #### `LK-91` Ratnapura
 
