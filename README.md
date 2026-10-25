@@ -7,7 +7,7 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2026-10-24)
+## Latest Warnings (2026-10-25)
 
 ### 🟡 Level 1 - "watch"
 
@@ -23,12 +23,14 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 #### `LK-23` Nuwara Eliya
 
 - `LK-2314` Norwood
+- `LK-2315` Ambagamuwa Korale
 
 #### `LK-91` Ratnapura
 
 - `LK-9106` Kuruvita
 - `LK-9112` Ratnapura
 - `LK-9127` Elapatha
+- `LK-9130` Ayagama
 
 ### 🟠 Level 2 - "alert"
 
