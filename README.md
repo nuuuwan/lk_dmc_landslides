@@ -7,13 +7,63 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2026-10-26)
+## Latest Warnings (2026-10-27)
 
 ### 🟡 Level 1 - "watch"
 
+#### `LK-11` Colombo
+
+- `LK-1115` Seethawaka
+- `LK-1118` Padukka
+
 #### `LK-31` Galle
 
+- `LK-3109` Karandeniya
+- `LK-3112` Elpitiya
+- `LK-3115` Niyagama
 - `LK-3118` Thawalama
+- `LK-3121` Neluwa
+
+#### `LK-13` Kalutara
+
+- `LK-1309` Horana
+- `LK-1324` Beruwala
+
+#### `LK-21` Kandy
+
+- `LK-2103` Tumpane
+- `LK-2109` Akurana
+- `LK-2118` Ududumbara
+- `LK-2124` Medadumbara
+- `LK-2127` Kundasale
+- `LK-2130` Gangawata Korale
+- `LK-2134` Hatharaliyadda
+- `LK-2142` Doluwa
+
+#### `LK-61` Kurunegala
+
+- `LK-6160` Mawathagama
+- `LK-6181` Narammala
+- `LK-6184` Alawwa
+
+#### `LK-32` Matara
+
+- `LK-3203` Pitabaddara
+- `LK-3206` Kotapola
+
+#### `LK-23` Nuwara Eliya
+
+- `LK-2312` Nuwara Eliya
+- `LK-2313` Thalawakele
+
+#### `LK-91` Ratnapura
+
+- `LK-9115` Imbulpe
+- `LK-9139` Kahawattha
+- `LK-9145` Weligepola
+- `LK-9151` Kolonna
+
+### 🟠 Level 2 - "alert"
 
 #### `LK-12` Gampaha
 
@@ -21,49 +71,60 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 #### `LK-13` Kalutara
 
-- `LK-1309` Horana
+- `LK-1310` Ingiriya
 - `LK-1315` Madurawala
 - `LK-1318` Millaniya
-- `LK-1324` Beruwala
+- `LK-1330` Matugama
+- `LK-1333` Agalawatta
+- `LK-1336` Palindanuwara
+- `LK-1339` Walallawita
 
 #### `LK-21` Kandy
 
-- `LK-2118` Ududumbara
+- `LK-2136` Yatinuwara
 - `LK-2139` Udunuwara
 - `LK-2151` Udapalatha
+- `LK-2154` Ganga Ihala Korale
 - `LK-2157` Pasbagekorale
 
 #### `LK-92` Kegalle
 
+- `LK-9203` Rambukkana
 - `LK-9206` Mawanella
 - `LK-9209` Aranayake
 - `LK-9212` Kegalle
+- `LK-9215` Galigamuwa
 - `LK-9218` Warakapola
 - `LK-9221` Ruwanwella
+- `LK-9224` Bulathkohipitiya
 - `LK-9227` Yatiyantota
+- `LK-9230` Dehiowita
 - `LK-9233` Deraniyagala
 
 #### `LK-61` Kurunegala
 
 - `LK-6154` Kurunegala
-- `LK-6181` Narammala
+
+#### `LK-23` Nuwara Eliya
+
+- `LK-2302` Kothmale West
+- `LK-2303` Kothmale East
 
 #### `LK-91` Ratnapura
 
+- `LK-9103` Eheliyagoda
 - `LK-9109` Kiriella
-- `LK-9121` Opanayake
+- `LK-9118` Balangoda
+- `LK-9133` Kalawana
+- `LK-9136` Nivithigala
+- `LK-9142` Godakawela
 
-### 🟠 Level 2 - "alert"
+### 🛑 Level 3 - "evacuate"
 
 #### `LK-13` Kalutara
 
 - `LK-1312` Bulathsinhala
-- `LK-1339` Walallawita
-
-#### `LK-92` Kegalle
-
-- `LK-9215` Galigamuwa
-- `LK-9230` Dehiowita
+- `LK-1327` Dodangoda
 
 #### `LK-23` Nuwara Eliya
 
@@ -74,9 +135,7 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 - `LK-9106` Kuruvita
 - `LK-9112` Ratnapura
+- `LK-9121` Opanayake
 - `LK-9124` Pelmadulla
 - `LK-9127` Elapatha
 - `LK-9130` Ayagama
-- `LK-9136` Nivithigala
-
-### 🛑 Level 3 - "evacuate"
