@@ -7,14 +7,9 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2026-10-28)
+## Latest Warnings (2026-10-29)
 
 ### 🟡 Level 1 - "watch"
-
-#### `LK-11` Colombo
-
-- `LK-1115` Seethawaka
-- `LK-1118` Padukka
 
 #### `LK-31` Galle
 
@@ -26,49 +21,25 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 #### `LK-13` Kalutara
 
-- `LK-1309` Horana
-- `LK-1310` Ingiriya
-- `LK-1315` Madurawala
-- `LK-1318` Millaniya
-- `LK-1324` Beruwala
-- `LK-1330` Matugama
-- `LK-1333` Agalawatta
-- `LK-1336` Palindanuwara
-- `LK-1339` Walallawita
+- `LK-1312` Bulathsinhala
+- `LK-1327` Dodangoda
 
 #### `LK-21` Kandy
 
 - `LK-2136` Yatinuwara
 - `LK-2139` Udunuwara
-- `LK-2151` Udapalatha
-- `LK-2154` Ganga Ihala Korale
-- `LK-2157` Pasbagekorale
 
 #### `LK-92` Kegalle
 
-- `LK-9203` Rambukkana
-- `LK-9212` Kegalle
-- `LK-9215` Galigamuwa
-- `LK-9218` Warakapola
-- `LK-9221` Ruwanwella
+- `LK-9206` Mawanella
+- `LK-9209` Aranayake
 - `LK-9224` Bulathkohipitiya
 - `LK-9227` Yatiyantota
-- `LK-9230` Dehiowita
-- `LK-9233` Deraniyagala
-
-#### `LK-61` Kurunegala
-
-- `LK-6154` Kurunegala
-
-#### `LK-32` Matara
-
-- `LK-3203` Pitabaddara
-- `LK-3206` Kotapola
 
 #### `LK-23` Nuwara Eliya
 
-- `LK-2302` Kothmale West
-- `LK-2303` Kothmale East
+- `LK-2314` Norwood
+- `LK-2315` Ambagamuwa Korale
 
 #### `LK-91` Ratnapura
 
@@ -80,25 +51,6 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-9142` Godakawela
 
 ### 🟠 Level 2 - "alert"
-
-#### `LK-12` Gampaha
-
-- `LK-1227` Attanagalla
-
-#### `LK-13` Kalutara
-
-- `LK-1312` Bulathsinhala
-- `LK-1327` Dodangoda
-
-#### `LK-92` Kegalle
-
-- `LK-9206` Mawanella
-- `LK-9209` Aranayake
-
-#### `LK-23` Nuwara Eliya
-
-- `LK-2314` Norwood
-- `LK-2315` Ambagamuwa Korale
 
 #### `LK-91` Ratnapura
 
