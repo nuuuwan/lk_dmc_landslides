@@ -7,22 +7,9 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2026-10-29)
+## Latest Warnings (2026-10-30)
 
 ### 🟡 Level 1 - "watch"
-
-#### `LK-31` Galle
-
-- `LK-3109` Karandeniya
-- `LK-3112` Elpitiya
-- `LK-3115` Niyagama
-- `LK-3118` Thawalama
-- `LK-3121` Neluwa
-
-#### `LK-13` Kalutara
-
-- `LK-1312` Bulathsinhala
-- `LK-1327` Dodangoda
 
 #### `LK-21` Kandy
 
@@ -43,22 +30,13 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 #### `LK-91` Ratnapura
 
-- `LK-9103` Eheliyagoda
-- `LK-9109` Kiriella
-- `LK-9118` Balangoda
-- `LK-9133` Kalawana
-- `LK-9136` Nivithigala
-- `LK-9142` Godakawela
-
-### 🟠 Level 2 - "alert"
-
-#### `LK-91` Ratnapura
-
 - `LK-9106` Kuruvita
 - `LK-9112` Ratnapura
 - `LK-9121` Opanayake
 - `LK-9124` Pelmadulla
 - `LK-9127` Elapatha
 - `LK-9130` Ayagama
+
+### 🟠 Level 2 - "alert"
 
 ### 🛑 Level 3 - "evacuate"
