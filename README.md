@@ -7,35 +7,18 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2026-10-30)
+## Latest Warnings (2026-10-31)
 
 ### 🟡 Level 1 - "watch"
 
 #### `LK-21` Kandy
 
 - `LK-2136` Yatinuwara
-- `LK-2139` Udunuwara
 
 #### `LK-92` Kegalle
 
 - `LK-9206` Mawanella
 - `LK-9209` Aranayake
-- `LK-9224` Bulathkohipitiya
-- `LK-9227` Yatiyantota
-
-#### `LK-23` Nuwara Eliya
-
-- `LK-2314` Norwood
-- `LK-2315` Ambagamuwa Korale
-
-#### `LK-91` Ratnapura
-
-- `LK-9106` Kuruvita
-- `LK-9112` Ratnapura
-- `LK-9121` Opanayake
-- `LK-9124` Pelmadulla
-- `LK-9127` Elapatha
-- `LK-9130` Ayagama
 
 ### 🟠 Level 2 - "alert"
 
