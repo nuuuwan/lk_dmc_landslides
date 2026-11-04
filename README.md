@@ -7,7 +7,7 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2026-11-03)
+## Latest Warnings (2026-11-04)
 
 ### 🟡 Level 1 - "watch"
 
@@ -17,14 +17,19 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-8112` Kandeketiya
 - `LK-8118` Passara
 - `LK-8130` Welimada
+- `LK-8136` Ella
+- `LK-8139` Haputale
+- `LK-8142` Haldummulla
 
 #### `LK-21` Kandy
 
 - `LK-2103` Tumpane
+- `LK-2118` Ududumbara
 - `LK-2121` Minipe
 - `LK-2124` Medadumbara
 - `LK-2134` Hatharaliyadda
 - `LK-2136` Yatinuwara
+- `LK-2139` Udunuwara
 - `LK-2142` Doluwa
 
 #### `LK-92` Kegalle
@@ -37,11 +42,6 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-9224` Bulathkohipitiya
 - `LK-9227` Yatiyantota
 
-#### `LK-61` Kurunegala
-
-- `LK-6130` Ibbagamuwa
-- `LK-6163` Rideegama
-
 #### `LK-22` Matale
 
 - `LK-2212` Pallepola
@@ -53,18 +53,12 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-2309` Walapane
 - `LK-2314` Norwood
 
+#### `LK-91` Ratnapura
+
+- `LK-9124` Pelmadulla
+- `LK-9139` Kahawattha
+
 ### 🟠 Level 2 - "alert"
-
-#### `LK-81` Badulla
-
-- `LK-8136` Ella
-- `LK-8139` Haputale
-- `LK-8142` Haldummulla
-
-#### `LK-21` Kandy
-
-- `LK-2118` Ududumbara
-- `LK-2139` Udunuwara
 
 #### `LK-32` Matara
 
