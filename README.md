@@ -7,13 +7,13 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2026-11-09)
+## Latest Warnings (2026-11-10)
 
 ### 🟡 Level 1 - "watch"
 
 #### `LK-81` Badulla
 
-- `LK-8109` Meegahakiula
+- `LK-8136` Ella
 
 #### `LK-11` Colombo
 
@@ -30,6 +30,8 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 - `LK-1310` Ingiriya
 - `LK-1312` Bulathsinhala
+- `LK-1330` Matugama
+- `LK-1333` Agalawatta
 - `LK-1336` Palindanuwara
 - `LK-1339` Walallawita
 
@@ -39,6 +41,10 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-2121` Minipe
 - `LK-2136` Yatinuwara
 - `LK-2139` Udunuwara
+- `LK-2142` Doluwa
+- `LK-2151` Udapalatha
+- `LK-2154` Ganga Ihala Korale
+- `LK-2157` Pasbagekorale
 
 #### `LK-92` Kegalle
 
@@ -60,9 +66,12 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 - `LK-2303` Kothmale East
 - `LK-2306` Hanguranketa
 - `LK-2307` Mathurata
+- `LK-2314` Norwood
 
 #### `LK-91` Ratnapura
 
+- `LK-9106` Kuruvita
+- `LK-9109` Kiriella
 - `LK-9112` Ratnapura
 - `LK-9118` Balangoda
 - `LK-9142` Godakawela
@@ -74,12 +83,17 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 - `LK-8118` Passara
 
+#### `LK-31` Galle
+
+- `LK-3124` Nagoda
+
 #### `LK-21` Kandy
 
 - `LK-2118` Ududumbara
 
 #### `LK-92` Kegalle
 
+- `LK-9230` Dehiowita
 - `LK-9233` Deraniyagala
 
 #### `LK-23` Nuwara Eliya
