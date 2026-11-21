@@ -7,42 +7,31 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2026-11-14)
+## Latest Warnings (2026-11-21)
 
 ### 🟡 Level 1 - "watch"
 
-#### `LK-81` Badulla
+#### `LK-21` Kandy
 
-- `LK-8115` Soranathota
-- `LK-8118` Passara
-- `LK-8121` Badulla
-- `LK-8124` Hali-Ela
-- `LK-8133` Bandarawela
-- `LK-8136` Ella
+- `LK-2103` Tumpane
+- `LK-2130` Gangawata Korale
+- `LK-2134` Hatharaliyadda
+- `LK-2157` Pasbagekorale
+
+#### `LK-92` Kegalle
+
+- `LK-9203` Rambukkana
+- `LK-9209` Aranayake
+- `LK-9215` Galigamuwa
+
+### 🟠 Level 2 - "alert"
 
 #### `LK-21` Kandy
 
 - `LK-2136` Yatinuwara
-- `LK-2139` Udunuwara
 
 #### `LK-92` Kegalle
 
 - `LK-9206` Mawanella
-- `LK-9209` Aranayake
-- `LK-9227` Yatiyantota
-
-#### `LK-23` Nuwara Eliya
-
-- `LK-2314` Norwood
-- `LK-2315` Ambagamuwa Korale
-
-#### `LK-91` Ratnapura
-
-- `LK-9103` Eheliyagoda
-- `LK-9127` Elapatha
-- `LK-9130` Ayagama
-- `LK-9145` Weligepola
-
-### 🟠 Level 2 - "alert"
 
 ### 🛑 Level 3 - "evacuate"
