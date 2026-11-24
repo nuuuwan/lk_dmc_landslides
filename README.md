@@ -7,24 +7,9 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2026-11-21)
+## Latest Warnings (2026-11-24)
 
 ### 🟡 Level 1 - "watch"
-
-#### `LK-21` Kandy
-
-- `LK-2103` Tumpane
-- `LK-2130` Gangawata Korale
-- `LK-2134` Hatharaliyadda
-- `LK-2157` Pasbagekorale
-
-#### `LK-92` Kegalle
-
-- `LK-9203` Rambukkana
-- `LK-9209` Aranayake
-- `LK-9215` Galigamuwa
-
-### 🟠 Level 2 - "alert"
 
 #### `LK-21` Kandy
 
@@ -32,6 +17,22 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 #### `LK-92` Kegalle
 
+- `LK-9209` Aranayake
+- `LK-9221` Ruwanwella
+
+### 🟠 Level 2 - "alert"
+
+#### `LK-21` Kandy
+
+- `LK-2139` Udunuwara
+
+#### `LK-92` Kegalle
+
+- `LK-9203` Rambukkana
 - `LK-9206` Mawanella
+- `LK-9212` Kegalle
+- `LK-9215` Galigamuwa
+- `LK-9224` Bulathkohipitiya
+- `LK-9227` Yatiyantota
 
 ### 🛑 Level 3 - "evacuate"
