@@ -7,7 +7,7 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 ![Landslide Warning Map](landslide_warning_map.png)
 
-## Latest Warnings (2026-11-25)
+## Latest Warnings (2026-11-26)
 
 ### 🟡 Level 1 - "watch"
 
@@ -18,6 +18,9 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 #### `LK-21` Kandy
 
+- `LK-2103` Tumpane
+- `LK-2118` Ududumbara
+- `LK-2134` Hatharaliyadda
 - `LK-2136` Yatinuwara
 - `LK-2142` Doluwa
 - `LK-2151` Udapalatha
@@ -45,6 +48,7 @@ From the [Disaster Management Centre](https://www.dmc.gov.lk/index.php?option=co
 
 #### `LK-91` Ratnapura
 
+- `LK-9106` Kuruvita
 - `LK-9109` Kiriella
 
 ### 🟠 Level 2 - "alert"
